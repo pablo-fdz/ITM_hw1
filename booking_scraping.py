@@ -1,16 +1,3 @@
-# from selenium.webdriver.common.by import By
-# from selenium.common.exceptions import (
-#     NoSuchElementException,
-#     ElementClickInterceptedException,
-#     StaleElementReferenceException,
-# )
-# from selenium import webdriver
-# import os
-# import time
-# from selenium import webdriver
-# from selenium.webdriver.firefox.service import Service
-# from selenium.webdriver.firefox.options import Options
-
 # We import the auxiliary functions
 from auxiliary_functions import (
     load_all_results, scroll_and_click_dates, scroll_and_click, start_up
@@ -20,6 +7,7 @@ from auxiliary_functions import (
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
+import time
 import pandas as pd
 
 # Go get geckodriver from : https://github.com/mozilla/geckodriver/releases
@@ -34,7 +22,7 @@ link = "https://www.booking.com/index.es.html"
 
 browser = start_up(dfolder=dfolder, link=link, geko_path=geko_path, ubuntu = True)
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
+time.sleep(2)  # Wait up to 2 seconds for elements to appear
 
 # We have to reject the cookies to simplify the process of putting buttons into
 # view (which is useful when we want to click a button that may be obscured 
@@ -42,7 +30,7 @@ browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
 path = '//*[@id="onetrust-reject-all-handler"]'
 browser.find_element(by="xpath", value= path).click()
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
+time.sleep(1.5)  # Wait up to 1.5 seconds for elements to appear
 
 # We scroll and click on the "Where are you going?" search button
 scroll_and_click(browser = browser, by_type = 'xpath', path = '//*[@id=":rh:"]')
@@ -51,8 +39,6 @@ place = "Barcelona"
 search1 = browser.find_element(by="xpath", value='//*[@id=":rh:"]')
 search1.send_keys(place)
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
-
 # Use ActionChains to press Tab 6 times, to remove the pop-up list that appears
 # to select the destination
 actions = ActionChains(browser)
@@ -60,13 +46,9 @@ for _ in range(6):
     actions.send_keys(Keys.TAB).pause(0.05)
 actions.perform()
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
-
 # Scroll and click on the calendar button
 css = "button.ebbedaf8ac:nth-child(2) > span:nth-child(1)"
 scroll_and_click(browser = browser, by_type = 'css selector', path = css)
-
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
 
 # We select the dates
 ## Set the path for the date buttons
@@ -77,19 +59,15 @@ end_date = f"2025-01-31"
 ## Scroll for visibility and click on the desired dates
 scroll_and_click_dates(browser, "xpath", path, start_date, end_date)
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
-
 # Scroll up until calendar button is visible again and click
 css = "button.ebbedaf8ac:nth-child(2) > span:nth-child(1)"
 scroll_and_click(browser = browser, by_type = 'css selector', path = css)
-
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
 
 # Once we are outside the date selector, we click on the search button
 my_xpath = '//div[@id="indexsearch"]//div[@class="ffb9c3d6a3 b3b8f00b52 c9a7790c31 e691439f9a"]//button[@class="a83ed08757 c21c56c305 a4c1805887 f671049264 a2abacf76b c082d89982 cceeb8986b b9fd3c6b3c"]'
 browser.find_element(by = "xpath", value = my_xpath).click()
 
-browser.implicitly_wait(10)  # Wait up to 10 seconds for elements to appear
+time.sleep(2)  # Wait up to 2 seconds for elements to appear
 
 # We click on the cross to dismiss the Genius pop-up that appears prompting for
 # signing up or signing in. If the button does not exist, it simply continues
@@ -183,7 +161,8 @@ for block in accommodation_blocks:
     accommodation_data["neighborhood"].append(neighborhood)
 
 df = pd.DataFrame(accommodation_data)
-df.to_csv("test_results.csv")
+df.to_csv("test_results.csv", index = True)
+print("Created .csv successfully")
 
 # Go back to the initial booking.com page to repeat the procedure for different dates
 path = '//header[@class=" Header_root"]//div[@class="Header_logo"]'
