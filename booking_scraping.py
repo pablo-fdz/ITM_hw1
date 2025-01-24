@@ -134,7 +134,7 @@ for place in places:
 
         # 3. Check if the start_date is displayed in the calendar
 
-        displayed_dates = get_displayed_dates(browser)
+        displayed_dates = get_displayed_dates(browser = browser, by_type = 'xpath', path = path_date_selection)
         while start_date_str not in displayed_dates:
             # Click the button to load more months
             scroll_and_click(browser=browser, by_type='xpath', path=path_load_dates)
