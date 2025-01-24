@@ -10,6 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 from datetime import datetime
 import time
+import os
 import pandas as pd
 
 # Go get geckodriver from : https://github.com/mozilla/geckodriver/releases
@@ -26,10 +27,10 @@ ubuntu_os = True
 start_year = 2025
 start_month = 2
 end_year = 2025
-end_month = 12
+end_month = 3
 
 # Places selected to do the analysis: Barcelona and Madrid
-places = ['Barcelona', 'Madrid']
+places = ['Barcelona', 'Madrid, Comunidad de Madrid']
 
 # Time of sleep (in seconds) between pop-ups screens that may require renderization. 
 # A lower time may increase efficiency, but if it's too short it may break the 
@@ -50,21 +51,18 @@ dfolder = "./files"
 geko_path = "/usr/local/bin/geckodriver"
 # Link to booking
 link = "https://www.booking.com/index.es.html"
+# Folder path for general results (the data shown after loading results for a
+# location and a date in Booking)
+general_results_path = "files/general_results"
+# Folder path for URL data (which we will use to access the complete descriptions)
+url_data_path = "files/accommodation_urls"
+
 
 ###############################################################################
 
 # NOTE: this scraping has been done for the Spanish regional version of the
 # Booking webpage. Its robustness has not been checked for other regions (but it
 # should work as long as the website structure is the same)
-
-###############################################################################
-
-# We generate the date ranges (the dates for which we will scrape information
-# from the accommodations)
-all_date_ranges = []
-for year in range(start_year, end_year + 1):
-    for month in range(start_month, end_month + 1):
-        all_date_ranges.extend(generate_date_ranges(year, month))
 
 ###############################################################################
 
@@ -78,6 +76,15 @@ path_genius = '//div[@class="f0c216ee26 c676dd76fe b5018b639f"]//button[@class="
 path_load_results = '//div[@class="c82435a4b8 f581fde0b8"]//button[@class="a83ed08757 c21c56c305 bf0537ecb5 f671049264 af7297d90d c0e0affd09"]'
 path_accomm_box = '//div[@class="c82435a4b8 a178069f51 a6ae3c2b40 a18aeea94d d794b7a0f7 f53e278e95 c6710787a4"]'
 path_main_page = '//header[@class=" Header_root"]//div[@class="Header_logo"]'
+
+###############################################################################
+
+# We generate the date ranges (the dates for which we will scrape information
+# from the accommodations)
+all_date_ranges = []
+for year in range(start_year, end_year + 1):
+    for month in range(start_month, end_month + 1):
+        all_date_ranges.extend(generate_date_ranges(year, month, num_weeks=1))
 
 ###############################################################################
 
@@ -118,7 +125,7 @@ for place in places:
         # We scroll and click on the "Where are you going?" search button
         scroll_and_click(browser = browser, by_type = 'xpath', path = '//*[@id=":rh:"]')
         # Input the destination for which you want to search accommodations
-        place = "Barcelona"
+        place = place
         search1 = browser.find_element(by="xpath", value='//*[@id=":rh:"]')
         search1.send_keys(place)
 
@@ -139,7 +146,7 @@ for place in places:
             # Click the button to load more months
             scroll_and_click(browser=browser, by_type='xpath', path=path_load_dates)
             # Refresh displayed dates
-            displayed_dates = get_displayed_dates(browser)
+            displayed_dates = get_displayed_dates(browser = browser, by_type = 'xpath', path = path_date_selection)
 
         # 4. Select the dates when they are both present and continue scraping 
         # if True
@@ -172,14 +179,24 @@ for place in places:
             # We analyze the data for each accommodation box by box within a loop
             ## Define the XPath for the accommodation boxes
 
-            ## Initialize a dictionary with empty lists to store accommodation data
+            ## Initialize a dictionary with empty lists to store the general 
+            ## accommodation results
             accommodation_data = {
                 "hotel_name": [],
                 "price_euros": [],
                 "rating": [],
-                "description": [],
+                # "description": [],
                 "neighborhood": []
                 }
+
+            ## Initialize a dictionary with empty lists to store the name of the
+            ## accommodation, the neighborhood (for trying to ensure uniqueness)
+            ## and the URL to the accommodation
+            url_data = {
+                "hotel_name": [],
+                "neighborhood": [],
+                "url": []
+            }
 
             ## Find all accommodation blocks
             accommodation_blocks = browser.find_elements("xpath", path_accomm_box)
@@ -219,13 +236,15 @@ for place in places:
                     except:
                         continue  # Try the next XPath if the current one fails
                 
-                try:
-                    # Extract the description within the block
-                    description = block.find_element(
-                        "xpath", './/div[@class="c19beea015"]'
-                    ).text
-                except:
-                    description = None  # Handle cases where the description is not found
+                # Short description in the results list not included in the end
+                # (we will include the long one from each accommodation instead)
+                # try:
+                #     # Extract the description within the block
+                #     description = block.find_element(
+                #         "xpath", './/div[@class="c19beea015"]'
+                #     ).text
+                # except:
+                #     description = None  # Handle cases where the description is not found
 
                 try:
                     # Extract the neighborhood within the block
@@ -234,17 +253,46 @@ for place in places:
                     ).text
                 except:
                     neighborhood = None  # Handle cases where the neighborhood is not found
+                
+                try:
+                    # Extract the URL of the accommodation within the block
+                    url = block.find_element(
+                        "xpath", './/a[@class="a78ca197d0"]'
+                    ).get_attribute("href")
+                except:
+                    url = None  # Handle cases where the URL is not found
 
-                # Append the data to the dictionary
+                # Append the data to the dictionary of general results
                 accommodation_data["hotel_name"].append(hotel_name)
                 accommodation_data["price_euros"].append(price)
                 accommodation_data["rating"].append(rating)
-                accommodation_data["description"].append(description)
+                # accommodation_data["description"].append(description)
                 accommodation_data["neighborhood"].append(neighborhood)
 
-            df = pd.DataFrame(accommodation_data)
-            df.to_csv("test_results.csv", index = True)
-            print("Created .csv successfully")
+                # Append the data to the dictionary of URLS
+                url_data["hotel_name"].append(hotel_name)
+                url_data["neighborhood"].append(neighborhood)
+                url_data["url"].append(url)
+
+            ###################################################################
+
+            # DATA STORAGE in each iteration
+            
+            ## General results for each accommodation
+            df_general_results = pd.DataFrame(accommodation_data)
+            # Define the file name with the complete path
+            name_general_results = os.path.join(general_results_path, f'results_{start_date_str}_{end_date_str}_{place}.csv')
+            df_general_results.to_csv(name_general_results, index = False)
+            print("Created general results .csv successfully")
+
+            ## URLs for the accommodations and their names
+            df_url = pd.DataFrame(url_data)
+            # Define the file name with the complete path
+            name_url_data = os.path.join(url_data_path, f'urls_{start_date_str}_{end_date_str}_{place}.csv')
+            df_url.to_csv(name_url_data, index = False)
+            print("Created URL .csv successfully")
+
+            ###################################################################
 
             # Go back to the initial booking.com page to repeat the procedure for different dates
             scroll_and_click(browser = browser, by_type = 'xpath', path = path_main_page, delay = 0.75)
