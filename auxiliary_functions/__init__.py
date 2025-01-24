@@ -2,6 +2,7 @@ from .check_and_click import *
 from .check_obscures import *
 from .ffx_preferences import *
 from .generate_date_ranges import *
+from .get_displayed_dates import *
 from .load_all_results import *
 from .scroll_and_click_dates import *
 from .scroll_and_click import *
