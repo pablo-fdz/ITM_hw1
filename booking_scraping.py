@@ -25,9 +25,12 @@ ubuntu_os = True
 
 # Dates selected to do the analysis
 start_year = 2025
-start_month = 2
+start_month = 3
 end_year = 2025
-end_month = 3
+end_month = 4
+
+# Number of weeks to scrape per month (scraping is not done between months)
+num_weeks_to_scrape = 1
 
 # Places selected to do the analysis: Barcelona and Madrid
 places = ['Barcelona', 'Madrid, Comunidad de Madrid']
@@ -66,7 +69,7 @@ url_data_path = "files/accommodation_urls"
 
 ###############################################################################
 
-# Paths that should be fixed in each loop (ordered by appearance)
+# Paths that are used (ordered by appearance)
 path_cookies = '//*[@id="onetrust-reject-all-handler"]'
 css_calendar = "button.ebbedaf8ac:nth-child(2) > span:nth-child(1)"
 path_load_dates = '//div[@id = "calendar-searchboxdatepicker"]//button[@class = "a83ed08757 c21c56c305 f38b6daa18 d691166b09 f671049264 f4552b6561 dc72a8413c f073249358"]'
@@ -77,6 +80,16 @@ path_load_results = '//div[@class="c82435a4b8 f581fde0b8"]//button[@class="a83ed
 path_accomm_box = '//div[@class="c82435a4b8 a178069f51 a6ae3c2b40 a18aeea94d d794b7a0f7 f53e278e95 c6710787a4"]'
 path_main_page = '//header[@class=" Header_root"]//div[@class="Header_logo"]'
 
+# Relative paths to the accommodation boxes (path_accomm_box, ordered by appearance)
+rel_path_hotel_name = './/div[@class="f6431b446c a15b38c233"]' # Note that with .// we set it as a relative path to the block_xpath
+rel_path_price = './/span[@class="f6431b446c fbfd7c1165 e84eb96b1f"]'
+possible_rel_paths_ratings = [
+    './/div[@class="a3b8729ab1 d86cee9b25"]',  # First possible XPath (the most common one)
+    './/div[@class="a3b8729ab1 e6208ee469 cb2cbb3ccb"]',  # Second possible XPath (external comments)
+    ]
+rel_path_neighborhood = './/div[@class="abf093bdfe ecc6a9ed89"]//span[@class="aee5343fdb def9bc142a"]'
+rel_path_url = './/a[@class="a78ca197d0"]'
+
 ###############################################################################
 
 # We generate the date ranges (the dates for which we will scrape information
@@ -84,7 +97,7 @@ path_main_page = '//header[@class=" Header_root"]//div[@class="Header_logo"]'
 all_date_ranges = []
 for year in range(start_year, end_year + 1):
     for month in range(start_month, end_month + 1):
-        all_date_ranges.extend(generate_date_ranges(year, month, num_weeks=1))
+        all_date_ranges.extend(generate_date_ranges(year, month, num_weeks=num_weeks_to_scrape))
 
 ###############################################################################
 
@@ -187,8 +200,8 @@ for place in places:
                 "rating": [],
                 # "description": [],
                 "neighborhood": [],
-                "start_date": [],
-                "end_date": []
+                # "start_date": [],
+                # "end_date": []
                 }
 
             ## Initialize a dictionary with empty lists to store the name of the
@@ -208,7 +221,7 @@ for place in places:
                 try:
                     # Extract the hotel name within the block
                     hotel_name = block.find_element(
-                        "xpath", './/div[@class="f6431b446c a15b38c233"]' # Note that with .// we set it as a relative path to the block_xpath
+                        "xpath", rel_path_hotel_name
                     ).text
                 except:
                     hotel_name = None  # Handle cases where the hotel name is not found
@@ -216,7 +229,7 @@ for place in places:
                 try:
                     # Extract and clean the price within the block
                     price_string = block.find_element(
-                        "xpath", './/span[@class="f6431b446c fbfd7c1165 e84eb96b1f"]'
+                        "xpath", rel_path_price
                     ).text
                     price = float(price_string.split(" ")[1])  # Keep only the numeric part of prices and converting them to floats
                 except:
@@ -224,11 +237,7 @@ for place in places:
 
                 # Try to find the rating using multiple possible XPaths
                 rating = None  # Default value if no rating is found
-                possible_rating_paths = [
-                    './/div[@class="a3b8729ab1 d86cee9b25"]',  # First possible XPath (the most common)
-                    './/div[@class="a3b8729ab1 e6208ee469 cb2cbb3ccb"]',  # Second possible XPath (external comments)
-                ]
-                for path_rating in possible_rating_paths:
+                for path_rating in possible_rel_paths_ratings:
                     try:
                         rating_string = block.find_element("xpath", path_rating).text
                         # Clean the rating: keep the last 3 characters and replace commas with dots
@@ -251,7 +260,7 @@ for place in places:
                 try:
                     # Extract the neighborhood within the block
                     neighborhood = block.find_element(
-                        "xpath", './/div[@class="abf093bdfe ecc6a9ed89"]//span[@class="aee5343fdb def9bc142a"]'
+                        "xpath", rel_path_neighborhood
                     ).text
                 except:
                     neighborhood = None  # Handle cases where the neighborhood is not found
@@ -259,7 +268,7 @@ for place in places:
                 try:
                     # Extract the URL of the accommodation within the block
                     url = block.find_element(
-                        "xpath", './/a[@class="a78ca197d0"]'
+                        "xpath", rel_path_url
                     ).get_attribute("href")
                 except:
                     url = None  # Handle cases where the URL is not found
@@ -270,8 +279,8 @@ for place in places:
                 accommodation_data["rating"].append(rating)
                 # accommodation_data["description"].append(description)
                 accommodation_data["neighborhood"].append(neighborhood)
-                accommodation_data["start_date"].append(start_date_str)
-                accommodation_data["start_date"].append(end_date_str)
+                # accommodation_data["start_date"].append(start_date_str)
+                # accommodation_data["start_date"].append(end_date_str)
 
                 # Append the data to the dictionary of URLS
                 url_data["hotel_name"].append(hotel_name)
