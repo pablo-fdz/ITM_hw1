@@ -186,7 +186,9 @@ for place in places:
                 "price_euros": [],
                 "rating": [],
                 # "description": [],
-                "neighborhood": []
+                "neighborhood": [],
+                "start_date": [],
+                "end_date": []
                 }
 
             ## Initialize a dictionary with empty lists to store the name of the
@@ -268,6 +270,8 @@ for place in places:
                 accommodation_data["rating"].append(rating)
                 # accommodation_data["description"].append(description)
                 accommodation_data["neighborhood"].append(neighborhood)
+                accommodation_data["start_date"].append(start_date_str)
+                accommodation_data["start_date"].append(end_date_str)
 
                 # Append the data to the dictionary of URLS
                 url_data["hotel_name"].append(hotel_name)
