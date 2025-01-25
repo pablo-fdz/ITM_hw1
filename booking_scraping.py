@@ -110,6 +110,7 @@ while current_date <= end_date:
     all_date_ranges.extend(generate_date_ranges(current_date.year, current_date.month, num_weeks=1))
     # Move to the next month
     next_month = current_date.month % 12 + 1
+    # Make jump to the next year
     next_year = current_date.year + (1 if next_month == 1 else 0)
     current_date = datetime(next_year, next_month, 1).date()
 
@@ -352,7 +353,8 @@ df_url_combined = pd.concat(dataframes, axis=0, ignore_index=True)
 
 # Step 3: keep only unique values among a subset of columns (so that the extraction
 # of descriptions is more efficient)
-df_url_unique = df_url_combined.drop_duplicates(subset=['hotel_name'])
+df_url_unique = df_url_combined.drop_duplicates(subset=['hotel_name']).reset_index(drop = True)
+print(f'Reading the descriptions for {len(df_url_unique)} accommodations.')
 
 # Step 4: extract the accommodation descriptions using requests and BeautifulSoup
 ## Create a copy of the URL unique data frame where we will store the descriptions
