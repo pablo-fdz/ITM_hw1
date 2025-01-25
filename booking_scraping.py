@@ -25,8 +25,8 @@ ubuntu_os = True
 
 # Dates selected to do the analysis
 start_year = 2025
-start_month = 3
-end_year = 2025
+start_month = 2
+end_year = 2026
 end_month = 4
 
 # Number of weeks to scrape per month (scraping is not done between months)
@@ -98,10 +98,20 @@ rel_path_url = './/a[@class="a78ca197d0"]'
 
 # We generate the date ranges (the dates for which we will scrape information
 # from the accommodations)
+
+# Calculate the total months between the start and end date
+start_date = datetime(start_year, start_month, 1).date()
+end_date = datetime(end_year, end_month, 1).date()
+
+# Loop over all months between the start and end dates
 all_date_ranges = []
-for year in range(start_year, end_year + 1):
-    for month in range(start_month, end_month + 1):
-        all_date_ranges.extend(generate_date_ranges(year, month, num_weeks=num_weeks_to_scrape))
+current_date = start_date
+while current_date <= end_date:
+    all_date_ranges.extend(generate_date_ranges(current_date.year, current_date.month, num_weeks=1))
+    # Move to the next month
+    next_month = current_date.month % 12 + 1
+    next_year = current_date.year + (1 if next_month == 1 else 0)
+    current_date = datetime(next_year, next_month, 1).date()
 
 ###############################################################################
 
