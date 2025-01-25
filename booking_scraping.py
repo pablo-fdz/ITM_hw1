@@ -356,6 +356,9 @@ df_url_combined = pd.concat(dataframes, axis=0, ignore_index=True)
 df_url_unique = df_url_combined.drop_duplicates(subset=['hotel_name']).reset_index(drop = True)
 print(f'Reading the descriptions for {len(df_url_unique)} accommodations.')
 
+# Initialize variable to measure time
+start_time = time.time()
+
 # Step 4: extract the accommodation descriptions using requests and BeautifulSoup
 ## Create a copy of the URL unique data frame where we will store the descriptions
 description_df = df_url_unique.copy()
@@ -387,3 +390,15 @@ for i in range(len(description_df)):
         name_description_data = os.path.join(description_data_path, f'descriptions_{i + 1}.csv')
         description_df.to_csv(name_description_data, index=False)
         print(f"Progress saved at row {i + 1} in file: {name_description_data}")
+
+        # Calculate time remaining
+        elapsed_time = time.time() - start_time
+        elapsed_minutes = elapsed_time / 60  # Convert elapsed time to minutes
+        rows_processed = i + 1
+        avg_time_per_row = elapsed_time / rows_processed
+        remaining_rows = len(description_df) - rows_processed
+        estimated_time_remaining = avg_time_per_row * remaining_rows
+        # Convert estimated time remaining to hours, minutes, and seconds
+        hours, rem = divmod(estimated_time_remaining, 3600)
+        minutes, seconds = divmod(rem, 60)
+        print(f"Time elapsed: {elapsed_minutes:.2f} minutes | Estimated time remaining: {int(hours)}h {int(minutes)}m {int(seconds)}s")
