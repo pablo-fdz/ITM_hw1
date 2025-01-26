@@ -23,7 +23,7 @@ import pandas as pd
 # Ubuntu
 ubuntu_os = True
 
-# Dates selected to do the analysis
+# Dates selected to do the analysis (from February 2025 to April 2026)
 start_year = 2025
 start_month = 2
 end_year = 2026
@@ -33,7 +33,7 @@ end_month = 4
 num_weeks_to_scrape = 1
 
 # Places selected to do the analysis: Barcelona and Madrid
-places = ['Barcelona', 'Madrid, Comunidad de Madrid']
+places = ['Barcelona', 'Madrid, Community of Madrid']
 
 # Time of sleep (in seconds) between pop-ups screens that may require renderization. 
 # A lower time may increase efficiency, but if it's too short it may break the 
@@ -53,7 +53,8 @@ dfolder = "./files"
 # Set the geckodriver path
 geko_path = "/usr/local/bin/geckodriver"
 # Link to booking
-link = "https://www.booking.com/index.es.html"
+# link_es = "https://www.booking.com/index.es.html"
+link = "https://www.booking.com/index.us.html"
 # Folder path for general results (the data shown after loading results for a
 # location and a date in Booking)
 general_results_path = "files/general_results"
@@ -67,8 +68,8 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 ###############################################################################
 
-# NOTE: this scraping has been done for the Spanish regional version of the
-# Booking webpage. Its robustness has not been checked for other regions (but it
+# NOTE: this scraping has been done for the Spanish and American regional versions 
+# of the  Booking webpage. Its robustness has not been checked for other regions (but it
 # should work as long as the website structure is the same)
 
 ###############################################################################
