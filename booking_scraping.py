@@ -57,11 +57,11 @@ geko_path = "/usr/local/bin/geckodriver"
 link = "https://www.booking.com/index.us.html"
 # Folder path for general results (the data shown after loading results for a
 # location and a date in Booking)
-general_results_path = "files_eng/general_results"
+general_results_path = "files/general_results"
 # Folder path for URL data (which we will use to access the complete descriptions)
-url_data_path = "files_eng/accommodation_urls"
+url_data_path = "files/accommodation_urls"
 # Folder path for saving description data
-description_data_path = "files_eng/accommodation_descriptions/"
+description_data_path = "files/accommodation_descriptions/"
 
 # Modify the header for requests
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
