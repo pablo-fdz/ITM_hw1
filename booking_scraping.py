@@ -26,11 +26,11 @@ ubuntu_os = True
 # Dates selected to do the analysis (from February 2025 to April 2026)
 start_year = 2025
 start_month = 2
-end_year = 2026
-end_month = 4
+end_year = 2025
+end_month = 6
 
 # Number of weeks to scrape per month (scraping is not done between months)
-num_weeks_to_scrape = 1
+num_weeks_to_scrape = 3
 
 # Places selected to do the analysis: Barcelona and Madrid
 places = ['Barcelona', 'Madrid, Community of Madrid']
@@ -94,6 +94,8 @@ possible_rel_paths_ratings = [
     ]
 rel_path_neighborhood = './/div[@class="abf093bdfe ecc6a9ed89"]//span[@class="aee5343fdb def9bc142a"]'
 rel_path_url = './/a[@class="a78ca197d0"]'
+rel_path_short_description = './/div[@class="c19beea015"]'
+rel_path_num_reviews = './/div[@class="abf093bdfe f45d8e4c32 d935416c47"]'
 
 ###############################################################################
 
@@ -214,10 +216,11 @@ for place in places:
                 "hotel_name": [],
                 "price_euros": [],
                 "rating": [],
-                # "description": [],
+                "num_reviews": [],
+                "quality_over_5": [], # E.g., number of stars of a hotel or of "squares" of an apartment
+                "quality_type": [], # "stars" for hotels and "squares" otherwise 
                 "neighborhood": [],
-                # "start_date": [],
-                # "end_date": []
+                "description": []
                 }
 
             ## Initialize a dictionary with empty lists to store the name of the
@@ -264,15 +267,39 @@ for place in places:
                     except:
                         continue  # Try the next XPath if the current one fails
                 
-                # Short description in the results list not included in the end
-                # (we will include the long one from each accommodation instead)
-                # try:
-                #     # Extract the description within the block
-                #     description = block.find_element(
-                #         "xpath", './/div[@class="c19beea015"]'
-                #     ).text
-                # except:
-                #     description = None  # Handle cases where the description is not found
+                try:
+                    # Extract and clean the number of reviews within the block
+                    num_reviews_string = block.find_element(
+                        "xpath", rel_path_num_reviews
+                    ).text
+                    # Remove non-numeric characters, "reviews" and convert to int
+                    num_reviews = int(num_reviews_string.split()[0].replace(",", ""))
+                except:
+                    num_reviews = None  # Handle cases where the num_reviews is not found
+
+                try:
+                    # Extract the number of stars or rating-squares within the block
+                    quality_container = block.find_element(
+                        "xpath", './/div[@class="b3f3c831be"]'
+                    )
+                    # Extract the aria-label containing the quality of the accommodation
+                    aria_label = quality_container.get_attribute('aria-label')
+                    # Parse the numerical rating - the quality over 5 (e.g., "#4 out of 5" → 4)
+                    quality = int(aria_label[0])
+                except:
+                    quality = None  # Handle cases where the quality is not found
+
+                try:
+                    # Extract the type of quality within the block
+                    quality_type_container = block.find_element(
+                        "xpath", './/div[@class="a455730030"]'
+                    )
+                    # Extract the data-testid containing the type of quality of the accommodation
+                    data_testid = quality_type_container.get_attribute('data-testid')
+                    # Exclude "rating" from the output, keep only either "stars" (hotels) or "squares"
+                    quality_type = data_testid.split(sep = "-")[-1]
+                except:
+                    quality_type = None  # Handle cases where the quality type is not found
 
                 try:
                     # Extract the neighborhood within the block
@@ -282,6 +309,14 @@ for place in places:
                 except:
                     neighborhood = None  # Handle cases where the neighborhood is not found
                 
+                try:
+                    # Extract the description within the block
+                    description = block.find_element(
+                        "xpath", rel_path_short_description
+                    ).text
+                except:
+                    description = None  # Handle cases where the description is not found
+
                 try:
                     # Extract the URL of the accommodation within the block
                     url = block.find_element(
@@ -294,10 +329,11 @@ for place in places:
                 accommodation_data["hotel_name"].append(hotel_name)
                 accommodation_data["price_euros"].append(price)
                 accommodation_data["rating"].append(rating)
-                # accommodation_data["description"].append(description)
+                accommodation_data["num_reviews"].append(num_reviews)
+                accommodation_data["quality_over_5"].append(quality)
+                accommodation_data["quality_type"].append(quality_type)
                 accommodation_data["neighborhood"].append(neighborhood)
-                # accommodation_data["start_date"].append(start_date_str)
-                # accommodation_data["start_date"].append(end_date_str)
+                accommodation_data["description"].append(description)
 
                 # Append the data to the dictionary of URLS
                 url_data["hotel_name"].append(hotel_name)
