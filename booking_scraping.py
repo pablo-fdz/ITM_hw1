@@ -29,9 +29,8 @@ start_month = 2
 end_year = 2025
 end_month = 6
 
-# Number of weeks to scrape per month (scraping is not done between months)
+# Number of weeks to scrape per month (NOTE: scraping is not done across months)
 num_weeks_to_scrape = 3
-
 # Places selected to do the analysis: Barcelona and Madrid
 places = ['Barcelona', 'Madrid, Community of Madrid']
 
@@ -110,7 +109,7 @@ end_date = datetime(end_year, end_month, 1).date()
 all_date_ranges = []
 current_date = start_date
 while current_date <= end_date:
-    all_date_ranges.extend(generate_date_ranges(current_date.year, current_date.month, num_weeks=1))
+    all_date_ranges.extend(generate_date_ranges(current_date.year, current_date.month, num_weeks=num_weeks_to_scrape))
     # Move to the next month
     next_month = current_date.month % 12 + 1
     # Make jump to the next year
