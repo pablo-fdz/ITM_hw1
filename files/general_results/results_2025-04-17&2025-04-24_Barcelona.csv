@@ -1,0 +1,3353 @@
+hotel_name,price_euros,rating,num_reviews,quality_over_5,quality_type,neighborhood,description
+Be Mate Paseo de Gracia,2300.0,8.9,1206.0,4.0,squares,"Gràcia, Barcelona","Queen Room
+1 queen bed
+Only 2 rooms left at this price on our site"
+Travelodge Barcelona Poblenou,928.0,7.3,9974.0,1.0,stars,"Sant Martí, Barcelona","Double Room
+1 full bed"
+AC Hotel Barcelona Fórum by Marriott,1358.0,8.2,1416.0,4.0,stars,"Sant Martí, Barcelona","Standard Queen Room
+1 queen bed
+Free cancellation
+Only 5 rooms left at this price on our site"
+Catalonia Barcelona 505,1248.0,8.5,3261.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Catalonia Sagrada Familia,1267.0,8.4,9406.0,3.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Residència Erasmus Gracia,1015.0,8.2,5128.0,,,"Gràcia, Barcelona","Twin Room
+2 twin beds"
+Abba Garden,946.0,8.4,3168.0,4.0,stars,Barcelona,"Double or Twin Room
+Beds: 1 double or 2 twins"
+Casa Bella Gracia by Aspasios,1229.0,8.4,260.0,,,"Gràcia, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Catalonia Albeniz,1307.0,8.4,2802.0,3.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Hotel Viladomat,1161.0,7.6,3973.0,3.0,stars,"Eixample, Barcelona","Basic Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Motel One Barcelona-Ciutadella,1480.0,8.8,11216.0,3.0,stars,"Sant Martí, Barcelona","Double Room
+1 full bed
+Free cancellation"
+ibis Styles Barcelona City Bogatell,1334.0,8.4,5405.0,2.0,stars,"Sant Martí, Barcelona","Standard Double Room
+1 queen bed
+Breakfast included
+Only 7 rooms left at this price on our site"
+Catalonia Eixample 1864,1588.0,8.6,4299.0,4.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 3 rooms left at this price on our site"
+Catalonia Gracia,1408.0,8.5,2814.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Sallés Hotel Pere IV,1453.0,8.1,8451.0,4.0,stars,"Sant Martí, Barcelona","Deluxe Double Room with Spa Access
+Multiple bed types
+Free cancellation"
+Occidental Barcelona 1929,1504.0,8.8,5005.0,3.0,stars,"Sants-Montjuïc, Barcelona","Superior Double Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+Moxy Barcelona,1327.0,8.1,1228.0,4.0,stars,"Sants-Montjuïc, Barcelona","Moxy Queen Room with Balcony
+1 queen bed"
+Hotel Via Augusta,1327.0,8.4,2219.0,2.0,stars,"Sarrià-St. Gervasi, Barcelona","Twin Room
+2 twin beds
+Free cancellation"
+Catalonia La Boquería,1476.0,8.3,3559.0,4.0,stars,"Ciutat Vella, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Hotel & Spa Villa Olimpica Suites,1367.0,8.0,3831.0,4.0,stars,"Sant Martí, Barcelona","Double Room with Spa Access
+2 twin beds
+Free cancellation"
+Catalonia Barcelona Plaza,1528.0,8.7,3398.0,4.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property"
+Catalonia Atenas,1298.0,8.3,8113.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Ciutat Vella,1417.0,8.0,4602.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Four Points by Sheraton Barcelona Airport,1033.0,8.7,552.0,,,Barcelona,"King Room
+1 king bed
+Only 5 rooms left at this price on our site"
+Magatzem 128,1554.0,8.8,2493.0,3.0,squares,"Eixample, Barcelona","Double Room with Patio View
+1 full bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Golden Hotel Barcelona,1362.0,8.3,2474.0,4.0,stars,"Sant Martí, Barcelona","Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Catalonia Diagonal Centro,1628.0,8.7,3448.0,4.0,stars,"Eixample, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Casual Colours Barcelona,1271.0,8.3,3911.0,2.0,stars,"Les Corts, Barcelona","Economy Interior Double Room
+1 full bed
+Free cancellation
+Only 2 rooms left at this price on our site"
+Silken Sant Gervasi,1146.0,8.6,2463.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Twin Room
+2 twin beds"
+NH Barcelona Diagonal Center,1364.0,8.2,2290.0,3.0,stars,"Sant Martí, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Capri by Fraser Barcelona,1463.0,8.3,2991.0,4.0,stars,"Sant Martí, Barcelona","Deluxe Studio
+1 queen bed
+Free cancellation"
+Hotel Ronda Lesseps,1183.0,8.6,2477.0,4.0,stars,"Gràcia, Barcelona","Small Double Room Ground floor
+1 full bed
+Free cancellation
+Only 4 rooms left at this price on our site"
+Hostal Centric,1427.0,8.9,3719.0,4.0,squares,"Eixample, Barcelona","Triple Room
+3 twin beds
+Only 1 room left at this price on our site"
+Hostal Central Barcelona,1461.0,8.4,2181.0,2.0,stars,"Eixample, Barcelona","Double Room
+1 queen bed
+Free cancellation
+Only 2 rooms left at this price on our site"
+Zenit Barcelona,1335.0,8.2,1591.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 4 rooms left at this price on our site"
+U232 Hotel,1299.0,8.4,3415.0,4.0,stars,"Eixample, Barcelona","Interior Economy Double or Twin Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+Hotel Roger de Llúria,1755.0,8.3,1439.0,4.0,stars,"Eixample, Barcelona","Classic Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 6 rooms left at this price on our site"
+Atenea Rekord Suites,1357.0,8.5,978.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+08028 Apartments,1185.0,8.8,4274.0,4.0,squares,"Les Corts, Barcelona","Twin Room - No Kitchen
+2 twin beds
+Only 5 rooms left at this price on our site"
+Catalonia Born,1618.0,8.7,3320.0,4.0,stars,"Ciutat Vella, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Leonardo Hotel Barcelona Gran Via,1316.0,8.6,4570.0,3.0,stars,"Eixample, Barcelona","Comfort Double or Twin Room
+Multiple bed types"
+Catalonia Portal de l'Angel,1837.0,8.8,3160.0,3.0,stars,"Ciutat Vella, Barcelona","Premium Room
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property
+Only 4 rooms left at this price on our site"
+Catalonia Gran Via BCN,1558.0,8.8,2321.0,4.0,stars,"Eixample, Barcelona","Twin Room
+2 twin beds
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Som Nit Triomf,1181.0,7.7,1177.0,3.0,squares,"Eixample, Barcelona","Standard Double or Twin Room
+2 twin beds
+Only 1 room left at this price on our site"
+Hotel SERHS Del Port,1419.0,8.4,1540.0,3.0,stars,"Ciutat Vella, Barcelona","Comfort Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+AC Hotel Diagonal L'Illa by Marriott,1710.0,8.7,464.0,4.0,stars,"Les Corts, Barcelona","Standard King Room
+1 king bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 rooms left at this price on our site"
+Catalonia Avinyo,1517.0,8.6,4419.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Axel Hotel Barcelona - Adults Only,1479.0,8.1,2879.0,4.0,stars,"Eixample, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 4 rooms left at this price on our site"
+NH Barcelona Les Corts,1235.0,8.4,1924.0,3.0,stars,"Les Corts, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+SERHS Carlit Boutique Hotel,1732.0,8.5,1251.0,3.0,stars,"Eixample, Barcelona","Comfort Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Hotel Sant Agustí,1456.0,8.0,4546.0,3.0,stars,"Ciutat Vella, Barcelona","Partner offer option
+2 twin beds"
+Acta Voraport,1584.0,8.8,13934.0,3.0,stars,"Sant Martí, Barcelona","Superior Double Room
+Beds: 1 double or 2 twins
+Breakfast included
+Only 5 rooms left at this price on our site"
+Hostal BESTPRICE Barcelona Stadium,664.0,8.4,2048.0,1.0,stars,"Les Corts, Barcelona","Double or Twin Room
+2 twin beds
+Only 1 room left at this price on our site"
+Som Nit Port Vell,1315.0,8.5,680.0,4.0,squares,"Ciutat Vella, Barcelona","Twin Room
+2 twin beds
+Only 1 room left at this price on our site"
+Hotel Acta Laumon,1148.0,8.2,1445.0,3.0,stars,"Sant Andreu, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Aparthotel Bcn Montjuic,1406.0,8.4,4137.0,3.0,stars,"Sants-Montjuïc, Barcelona","Double Room with Terrace
+Multiple bed types"
+Pensión Villanueva,947.0,7.2,2300.0,2.0,stars,"Ciutat Vella, Barcelona","Economy Double with Private Bathroom with no views
+1 full bed
+Only 1 room left at this price on our site"
+Acta Antibes,1254.0,8.5,4457.0,2.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Catalonia Rigoletto,1508.0,8.5,2163.0,4.0,stars,"Les Corts, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Cram Hotel,1733.0,8.4,3612.0,4.0,stars,"Eixample, Barcelona","Deluxe Double Room
+1 queen bed
+Free cancellation
+Only 6 rooms left at this price on our site"
+Hotel Derby,1366.0,8.0,2535.0,4.0,stars,"Les Corts, Barcelona","Double or Twin Room (1-2 Adults)
+Beds: 1 double or 2 twins"
+Hotel Soho,1553.0,8.6,2381.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+One Shot Aragó,1521.0,8.6,1585.0,3.0,stars,"Eixample, Barcelona","Economy Double or Twin Room
+2 twin beds
+Free cancellation
+Only 4 rooms left at this price on our site"
+Ilunion Auditori,1246.0,8.3,5755.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Ronda House,1834.0,8.4,9735.0,3.0,stars,"Ciutat Vella, Barcelona","Twin Room (1-2 Adults)
+2 twin beds
+Breakfast included
+Free cancellation
+Only 1 room left at this price on our site"
+Leonardo Royal Hotel Barcelona Fira,1215.0,8.8,4768.0,4.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Ilunion Les Corts Spa,1364.0,8.2,7053.0,4.0,stars,"Les Corts, Barcelona","Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Dalia Ramblas,1305.0,8.0,3170.0,3.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+Hotel 54 Barceloneta,1732.0,8.5,2306.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double Room
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Bonanova Suite,1638.0,8.5,1081.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Studio (1-2 Adults)
+Entire studio • 1 bathroom • 1 kitchen • 20m²
+Beds: 1 double or 2 twins
+Free cancellation"
+Decô Apartments Barcelona-Born St.,1781.0,8.8,71.0,4.0,squares,"Ciutat Vella, Barcelona","Studio
+Entire studio • 1 bathroom • 30m²
+1 queen bed
+Only 2 left at this price on our site"
+NH Sants Barcelona,1318.0,8.6,2852.0,4.0,stars,"Les Corts, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Hotel Turin Barcelona,1432.0,8.3,5737.0,3.0,stars,"Ciutat Vella, Barcelona","Twin room
+2 twin beds
+Free cancellation"
+Hotel Villa Emilia,1744.0,8.9,1558.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room (1-2 Adults)
+Beds: 1 double or 2 twins"
+SLS Barcelona,1801.0,,,5.0,stars,"Forum Beach , Barcelona","King Room - Delight
+1 king bed"
+Hotel BESTPRICE Diagonal,980.0,8.4,3403.0,1.0,stars,"Sant Martí, Barcelona","Deluxe Double or Twin Room
+Beds: 1 double or 2 twins"
+Catalonia Magdalenes,2008.0,9.3,2107.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+La França Travellers Adults Only,1217.0,8.3,3729.0,2.0,stars,"Sants-Montjuïc, Barcelona","Deluxe Double Room with Shower
+1 king bed
+Only 1 room left at this price on our site"
+Oriente Atiram,1551.0,8.3,2495.0,3.0,stars,"Ciutat Vella, Barcelona","Twin Room
+2 twin beds
+Only 4 rooms left at this price on our site"
+Hostal Radio Barcelona,844.0,7.8,5457.0,2.0,stars,"Ciutat Vella, Barcelona","Climatized Double Room with Private bathroom
+1 full bed"
+Pestana Arena Barcelona,1348.0,8.5,2799.0,4.0,stars,"Sants-Montjuïc, Barcelona","King Room
+1 king bed"
+Silken Ramblas,1554.0,8.1,2986.0,4.0,stars,"Ciutat Vella, Barcelona","Comfort Double or Twin Room
+2 twin beds"
+Acta BCN 40,1273.0,8.4,3011.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Citadines Ramblas Barcelona,1659.0,8.6,3719.0,3.0,stars,"Ciutat Vella, Barcelona","Classic Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Hotel America Barcelona,1805.0,8.7,1920.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Ramblas Hotel,1309.0,7.3,3284.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room with Terrace
+Beds: 1 double or 2 twins
+Breakfast included"
+Hostal Operaramblas,1361.0,8.8,5885.0,2.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+NH Collection Barcelona Constanza,1428.0,8.6,4783.0,4.0,stars,"Les Corts, Barcelona","Superior Double or Twin Room
+Multiple bed types"
+Catalonia Plaza Catalunya,1973.0,8.6,5500.0,4.0,stars,"Eixample, Barcelona","Superior Double Room with Spa Access
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Yomo Hostal BCN Port,1073.0,8.0,1966.0,2.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room with Shared Bathroom
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Catalonia Park Güell,1097.0,7.8,5772.0,3.0,stars,"Gràcia, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Hotel Lyon,1090.0,7.2,1106.0,1.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds
+Free cancellation"
+Sant Antoni Market,1701.0,8.7,663.0,4.0,squares,"Eixample, Barcelona","Large One-Bedroom Apartment (2 Adults)
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 60m²
+1 queen bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 4 left at this price on our site"
+Inside Barcelona Apartments Sants,1413.0,8.6,664.0,4.0,squares,"Sants-Montjuïc, Barcelona","Studio (2 Adults)
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 42m²
+2 twin beds
+Only 1 left at this price on our site"
+Musik Boutique Hotel,1742.0,9.1,1741.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double Room
+1 queen bed
+Free cancellation
+Only 7 rooms left at this price on our site"
+NH Barcelona Entenza,1296.0,8.4,1366.0,3.0,stars,"Les Corts, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Breakfast included"
+Hotel Market,1459.0,7.6,3870.0,3.0,stars,"Eixample, Barcelona","Doble Interior
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Exe Plaza Catalunya,1751.0,8.4,3887.0,4.0,stars,"Eixample, Barcelona","Basic Double Room
+1 full bed"
+Hotel Pulitzer Barcelona,1872.0,8.8,1498.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Hotel Barcelona Universal,1524.0,8.3,4189.0,4.0,stars,"Ciutat Vella, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Hotel Granvia,1787.0,8.9,2133.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Sant Pau Terraces Apartments,1735.0,9.0,155.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with Terrace
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 27m²
+1 queen bed
+Free cancellation
+Only 1 left at this price on our site"
+Leonardo Boutique Hotel Barcelona Sagrada Familia,1250.0,8.7,2615.0,3.0,stars,"Sant Martí, Barcelona","Comfort Double or Twin Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Yurbban Trafalgar Hotel,1666.0,9.3,1507.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Acacia Suite,1499.0,8.0,894.0,4.0,stars,"Eixample, Barcelona","Apartment with Kitchenette
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+4 beds (2 twins, 2 sofa beds)
+Free cancellation"
+Hotel del Mar,1297.0,8.4,2811.0,3.0,stars,"Ciutat Vella, Barcelona","Triple
+2 twin beds"
+Hotel Raval House,1930.0,8.2,6291.0,3.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room with Terrace
+2 twin beds
+Breakfast included
+Free cancellation
+Only 1 room left at this price on our site"
+The Social Hub Barcelona Poblenou,1426.0,8.8,3155.0,,,"Sant Martí, Barcelona","Standard King Room
+1 queen bed"
+Acevi Villarroel,1506.0,8.0,4367.0,4.0,stars,"Eixample, Barcelona","Executive Double or Twin Room
+Multiple bed types"
+Park Hotel,1534.0,8.4,3747.0,3.0,stars,"Ciutat Vella, Barcelona","Deluxe Double Exterior
+1 queen bed
+Free cancellation"
+Mesón Castilla Atiram Hotels,1320.0,8.2,876.0,3.0,stars,"Ciutat Vella, Barcelona","Guest Room
+1 full bed"
+Acta Atrium Palace,1665.0,8.2,3068.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Hotel Casa Teva Barcelona,1661.0,8.8,371.0,,,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 4 rooms left at this price on our site"
+Som Nit Born,1244.0,8.3,756.0,3.0,squares,"Ciutat Vella, Barcelona","Standard Twin Room
+2 twin beds
+Only 3 rooms left at this price on our site"
+Hotel Balmoral,1357.0,8.5,1668.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Cuatro Naciones,1231.0,8.2,4427.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Breakfast included"
+Apartamentos DV,1168.0,8.6,2342.0,4.0,squares,"Sants-Montjuïc, Barcelona","Double Room with Private Bathroom
+1 queen bed
+Only 4 rooms left at this price on our site"
+Catalonia Castellnou,1167.0,8.4,2282.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+ApartEasy - Gracia Apartments,1608.0,7.1,379.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Plaza Goya Rooms,1243.0,8.2,1080.0,2.0,stars,"Eixample, Barcelona","Standard Double Room
+1 full bed
+Only 1 room left at this price on our site"
+"Hotel Indigo Barcelona Plaza Espana, an IHG Hotel",1759.0,8.8,7218.0,4.0,stars,"Sants-Montjuïc, Barcelona","Standard Queen Room
+1 queen bed"
+Sercotel Amister Art Hotel Barcelona,1440.0,8.2,2424.0,4.0,stars,"Eixample, Barcelona","Classic Twin Room
+2 twin beds"
+Hotel Suizo,1513.0,8.6,2250.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds"
+Hotel Best Front Maritim,1061.0,7.5,2819.0,4.0,stars,"Sant Martí, Barcelona","Double Room
+1 full bed"
+Petit Palace Boqueria Garden,1939.0,8.1,4217.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room (1-2 Adults)
+Beds: 1 double or 2 twins
+Free cancellation"
+Ilunion Almirante,1593.0,7.6,3331.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Catalonia Port,1928.0,8.8,1489.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Leonardo Hotel Barcelona Las Ramblas,1470.0,8.1,3779.0,3.0,stars,"Ciutat Vella, Barcelona","Economy Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Hotel Arconte,1608.0,7.5,37.0,4.0,stars,"Eixample, Barcelona","Deluxe Room
+1 king bed
+Free cancellation
+Only 5 rooms left at this price on our site"
+El Alma de las Ramblas,1742.0,9.2,236.0,4.0,squares,"Ciutat Vella, Barcelona","Superior Studio (2 Adults)
+Entire studio • 1 bathroom • 1 kitchen • 30m²
+1 full bed
+Free cancellation
+Only 1 left at this price on our site"
+Ilunion Barcelona,1430.0,8.5,6620.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+H La Paloma Boutique,1119.0,8.0,597.0,2.0,stars,"Ciutat Vella, Barcelona","Deluxe Double Room
+1 king bed
+Only 3 rooms left at this price on our site"
+Aspasios Arc de Triomf Apartments,1978.0,9.2,180.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 65m²
+1 full bed
+Only 1 left at this price on our site"
+Negresco Princess 4* Sup,1816.0,8.3,5896.0,4.0,stars,"Eixample, Barcelona","Double Room
+1 full bed"
+Acta CITY47,1258.0,8.3,3121.0,4.0,stars,"Sants-Montjuïc, Barcelona","Superior Twin Room
+2 twin beds
+Only 1 room left at this price on our site"
+Àmfores Boutique Guest House,1355.0,8.2,2032.0,2.0,stars,"Ciutat Vella, Barcelona","Standard Double Room
+1 full bed
+Only 7 rooms left at this price on our site"
+Praktik Bakery,1579.0,8.6,2646.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+You Stylish El Born Apartments,2076.0,8.4,163.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with Terrace - Carrer de la Diputació
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+1 full bed
+Free cancellation
+Only 1 left at this price on our site"
+Aparthotel Augusta,1504.0,8.5,2612.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+1 full bed
+Only 1 room left at this price on our site"
+Hilton Diagonal Mar Barcelona,1276.0,8.0,2155.0,4.0,stars,"Sant Martí, Barcelona","Twin Room
+2 twin beds"
+Catalonia Ramblas 4* Sup,2058.0,8.5,4762.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Catalonia Park Putxet,1131.0,8.0,4904.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Andante Hotel,1587.0,8.3,3653.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 queen bed
+Only 6 rooms left at this price on our site"
+H10 Urquinaona Plaza,2098.0,8.7,1315.0,4.0,stars,"Eixample, Barcelona","Comfort Double Room
+1 full bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 rooms left at this price on our site"
+H10 Port Vell 4* Sup,2124.0,8.8,1795.0,4.0,stars,"Ciutat Vella, Barcelona","Basic Room
+1 twin bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+BruStar Gotic-Centric,1081.0,7.5,1091.0,2.0,stars,"Eixample, Barcelona","Double Room
+1 full bed
+Only 1 room left at this price on our site"
+BCN Urbaness Hotels Del Comte,1775.0,7.6,1345.0,2.0,stars,"Eixample, Barcelona","Twin Room
+2 twin beds
+Free cancellation"
+Hotel Casa Sagnier,2727.0,9.2,1533.0,5.0,stars,"Eixample, Barcelona","Small Double or Twin Room
+Multiple bed types
+Free cancellation
+Only 6 rooms left at this price on our site"
+Exe Mitre,1301.0,8.3,2310.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Double Room
+Beds: 1 double or 2 twins"
+Casa Pince,1972.0,9.0,524.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 queen bed
+Free cancellation"
+Suitur apartamento floridablanca barcelona,1640.0,9.1,12.0,,,"Eixample, Barcelona","Apartment
+Entire apartment • 1 bathroom • 1 kitchen • 68m²
+Free cancellation"
+NH Barcelona Eixample,1454.0,7.9,2025.0,3.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+The Hotel 592 - Adults Only,1355.0,8.5,1315.0,3.0,squares,"Eixample, Barcelona","Twin Room
+Beds: 1 double or 2 twins
+Breakfast included
+Only 1 room left at this price on our site"
+Isabella's House,1690.0,8.5,1386.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 2 left at this price on our site"
+Occidental Atenea Mar - Adults Only,1424.0,8.2,3710.0,4.0,stars,"Sant Martí, Barcelona","Superior Double or Twin Room
+Multiple bed types"
+Hostal Barcelona Travel,1254.0,7.3,1062.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 full bed
+Free cancellation"
+Sunotel Central,1664.0,8.0,1360.0,4.0,stars,"Eixample, Barcelona","Economy Double Room
+1 full bed
+Only 4 rooms left at this price on our site"
+Super Balmes Guest House,938.0,8.4,1651.0,3.0,squares,"Eixample, Barcelona","Twin Room with Shared Bathroom
+2 twin beds"
+Ola Living MACBA,1700.0,8.2,568.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 38m²
+1 king bed
+Only 3 left at this price on our site"
+Catalonia Square 4* Sup,2258.0,9.0,2288.0,4.0,stars,"Eixample, Barcelona","Junior Suite
+Private suite
+1 king bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 4 left at this price on our site"
+The Corner Hotel,1866.0,8.8,1593.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+2 twin beds
+Only 6 rooms left at this price on our site"
+LeMar by Aspasios,1307.0,8.4,941.0,3.0,squares,"Eixample, Barcelona","Superior Double Room
+Beds: 1 double or 2 twins
+Only 1 room left at this price on our site"
+Sercotel Caspe,1695.0,8.4,7100.0,4.0,stars,"Eixample, Barcelona","Standard Queen Room
+1 queen bed"
+Hotel Sant Pau,1077.0,8.5,2864.0,3.0,stars,"Horta-Guinardó, Barcelona","Superior Double Room with Two Beds
+2 twin beds"
+H10 Marina Barcelona,1561.0,8.3,2509.0,4.0,stars,"Sant Martí, Barcelona","Classic Double Room with City View
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property"
+C211 Barcelona Apartments,2752.0,8.8,1068.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","Two-Bedroom Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 full beds
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Barcelona Center,1706.0,8.6,8151.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Mosaic by Ona,1608.0,8.5,2748.0,3.0,stars,"Eixample, Barcelona","Double Room with Terrace
+1 full bed
+Only 7 rooms left at this price on our site"
+Unite Hostel Barcelona,2622.0,8.0,8415.0,,,"Sant Martí, Barcelona","Family Room with Private Bathroom
+8 bunk beds
+Free cancellation"
+Hotel Ramblas Internacional,1355.0,7.4,2252.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Twin Room
+2 twin beds
+Only 2 rooms left at this price on our site"
+Hostal Balkonis,1112.0,7.3,807.0,2.0,stars,"Eixample, Barcelona","Double Room with Balcony
+1 full bed
+Only 1 room left at this price on our site"
+Casa Lolita,1446.0,8.6,496.0,,,"Eixample, Barcelona","Standard Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Hostal Benidorm,1212.0,8.2,4605.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 5 rooms left at this price on our site"
+Hotel Oasis,1519.0,8.5,5138.0,2.0,stars,"Ciutat Vella, Barcelona","Standard Room Interior
+2 twin beds"
+"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",1961.0,8.9,3790.0,4.0,stars,"Gràcia, Barcelona","Standard Room - Interior Facing
+1 king bed
+Only 3 rooms left at this price on our site"
+Sunotel Junior,1460.0,7.2,756.0,2.0,stars,"Eixample, Barcelona","Double Small
+1 full bed
+Free cancellation
+Only 2 rooms left at this price on our site"
+Ola Living Vidreria,1607.0,7.4,522.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 33m²
+1 full bed
+Only 4 left at this price on our site"
+Wilson Boutique Hotel,1519.0,8.5,1785.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Inside Barcelona Apartments Esparteria,1725.0,8.7,855.0,4.0,squares,"Ciutat Vella, Barcelona","Studio with Terrace
+Entire studio • 1 bathroom • 1 kitchen • 25m²
+1 full bed
+Only 1 left at this price on our site"
+Flateli 430 BCN,2011.0,8.0,859.0,3.0,squares,"Eixample, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Brick Barcelona,1517.0,8.8,3047.0,,,"Sants-Montjuïc, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+BARCELONA GOTIC Guesthouse,799.0,7.7,2155.0,1.0,stars,"Ciutat Vella, Barcelona","Basic Double Room with Shared Bathroom
+1 full bed
+Only 3 rooms left at this price on our site"
+Sixties Ramblas,1553.0,8.4,4986.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Hotel Nuevo Triunfo,1639.0,7.8,2629.0,2.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room
+2 twin beds"
+Yeah Barcelona Hostel,2215.0,8.9,8816.0,,,"Eixample, Barcelona","6-Bed Mixed Dormitory Room
+Shared dorm room
+6 twin beds
+Only 2 left at this price on our site"
+Vincci Maritimo,1864.0,8.4,4860.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Praktik Garden,1426.0,8.2,2909.0,2.0,stars,"Eixample, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Senator Barcelona Apartments,1359.0,7.5,1337.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Double Room with Kitchen - Ground Floor
+Beds: 1 double or 2 twins
+Free cancellation
+Only 2 rooms left at this price on our site"
+Hesperia Barcelona Presidente,1514.0,8.5,4094.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Double or Twin Room
+Multiple bed types"
+Fira Apartments by Gaiarooms,2045.0,8.1,1513.0,4.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment (2 Adults)
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelona Century Hotel,1148.0,8.4,4212.0,3.0,stars,"Eixample, Barcelona","Double Room
+1 full bed"
+Pol & Grace Hotel,1489.0,8.2,2548.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Urban Flats Vallirana,1879.0,8.5,142.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 4 left at this price on our site"
+Blanc Guest House,1118.0,8.6,1225.0,,,"Sarrià-St. Gervasi, Barcelona","Exterior Twin Room with Shared Bathroom
+2 twin beds
+Breakfast included"
+Catalonia Catedral,2308.0,9.1,2609.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 rooms left at this price on our site"
+Exe Ramblas Boquería,1802.0,8.2,1286.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 2 rooms left at this price on our site"
+Grupotel Gran Via 678,1556.0,8.4,5126.0,4.0,stars,"Eixample, Barcelona","Standard Double Room
+1 queen bed"
+The One Barcelona GL,2948.0,9.1,1254.0,5.0,stars,"Eixample, Barcelona","Deluxe Double Room
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Miiro Borneta,2118.0,9.1,348.0,4.0,stars,"Ciutat Vella, Barcelona","The Classic
+1 queen bed"
+MH Apartments Suites,2219.0,8.4,1251.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 2 left at this price on our site"
+Hotel Vilamarí,1723.0,8.1,1095.0,4.0,stars,"Eixample, Barcelona","Interior- Facing Double Room With Natural Light
+1 full bed
+Only 2 rooms left at this price on our site"
+Sunotel Club Central,1503.0,8.0,1819.0,4.0,stars,"Eixample, Barcelona","Economy Double Room
+1 full bed
+Only 5 rooms left at this price on our site"
+Novotel Barcelona City,1595.0,8.2,4400.0,4.0,stars,"Sant Martí, Barcelona","Standard Room
+1 queen bed
+Only 7 rooms left at this price on our site"
+Hotel Nouvel,1654.0,8.0,3039.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+"Labtwentytwo Barcelona, a Tribute Portfolio Hotel",1378.0,8.4,332.0,4.0,stars,"Sant Martí, Barcelona","Standard King Room
+1 queen bed"
+Barcelona Apartment Republica,2068.0,7.4,1157.0,3.0,squares,"Sant Martí, Barcelona","Standard Apartment (3 Adults)
+Entire studio • 1 bathroom • 1 kitchen • 30m²
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 3 left at this price on our site"
+Apart-Suites Hostemplo,1936.0,8.9,2597.0,4.0,squares,"Eixample, Barcelona","Apart-Suite
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 32m²
+1 full bed"
+MH Apartments Sant Pau,2039.0,8.2,680.0,4.0,squares,"Horta-Guinardó, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Fisa Rentals Ramblas Apartments,2031.0,8.7,334.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 56m²
+1 queen bed
+Only 2 left at this price on our site"
+MH Apartments Gracia,2249.0,8.4,1044.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 75m²
+5 beds (4 twins, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 2 left at this price on our site"
+Hotel Condal,1469.0,7.5,5046.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed"
+Room Mate Pau,1968.0,9.2,4200.0,3.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Ilunion Bel-Art,1940.0,8.4,4136.0,4.0,stars,"Horta-Guinardó, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Barceló Raval,1668.0,8.3,2859.0,4.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+Praktik Vinoteca,1501.0,8.7,3048.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+1 queen bed
+Free cancellation"
+Barcelona Apartment Villarroel,2672.0,7.9,963.0,4.0,squares,"Eixample, Barcelona","Deluxe Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 70m²
+5 beds (4 twins, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 6 left at this price on our site"
+El Avenida Palace,1727.0,8.5,5238.0,4.0,stars,"Eixample, Barcelona","Economy
+1 full bed
+Only 1 room left at this price on our site"
+Vincci Mae,2157.0,8.4,2570.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins
+Free cancellation"
+"Hotel Balmes, a member of Preferred Hotels & Resorts",1635.0,8.4,2966.0,4.0,stars,"Eixample, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+1881 Barcelona Gran Rosellon Hotel,1627.0,8.0,2502.0,4.0,stars,"Eixample, Barcelona","Double Room
+1 full bed
+Only 4 rooms left at this price on our site"
+Vincci Gala,2282.0,8.6,3464.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Free Hostels Barcelona,1593.0,8.0,2267.0,,,"Eixample, Barcelona","Double Room with Balcony
+2 twin beds
+Free cancellation
+Only 1 room left at this price on our site"
+Aparthotel Atenea Calabria,1706.0,8.1,4448.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room with Kitchenette
+Beds: 1 double or 2 twins
+Only 7 rooms left at this price on our site"
+AG Apartments,1888.0,8.6,550.0,4.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom
+3 beds (2 twins, 1 full)
+Only 2 left at this price on our site"
+La Casa de Antonio Boutique Rooms,1408.0,8.2,1322.0,2.0,stars,"Eixample, Barcelona","Tiny Double Room
+1 full bed
+Only 2 rooms left at this price on our site"
+Sansi Pedralbes,2853.0,9.7,669.0,4.0,stars,"Les Corts, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Ola Living Consell De Cent,1661.0,8.7,40.0,4.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 50m²
+1 full bed
+Only 1 left at this price on our site"
+Suite Place Barcelona Còrsega,2498.0,8.1,1417.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelona Apartment Aramunt,2117.0,7.2,1464.0,3.0,squares,"Eixample, Barcelona","Superior Studio (4 Adults)
+Entire studio • 1 bathroom • 1 kitchen • 35m²
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+45 Times Barcelona Hotel,2468.0,8.5,2389.0,4.0,stars,"Eixample, Barcelona","Double Classic Room
+2 twin beds
+Free cancellation"
+Ikonik Anglí,1208.0,8.5,1421.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Economy Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Hotel Sagrada Familia,1263.0,8.1,3118.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 7 rooms left at this price on our site"
+Hostal Petit Príncep,967.0,8.0,1227.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Double Room
+1 full bed
+Only 2 rooms left at this price on our site"
+Aparthotel Allada 3*,2058.0,7.9,686.0,3.0,squares,"Ciutat Vella, Barcelona","Studio (2 Adults)
+Entire studio • 1 bathroom • 25m²
+1 full bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 left at this price on our site"
+Catalonia Mikado,1197.0,8.1,2639.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Ocean Drive Barcelona,2377.0,8.9,1675.0,5.0,stars,"Eixample, Barcelona","Superior Double Room
+1 king bed
+Free cancellation"
+Cozy Apartment in Sants,1221.0,7.3,9.0,3.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 25m²
+1 full bed
+Free cancellation
+Only 1 left at this price on our site"
+Allegro Barcelona,1577.0,8.7,2648.0,3.0,stars,"Eixample, Barcelona","Deluxe Double Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+Eurostars Grand Marina Hotel GL,2076.0,8.3,4956.0,5.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+"Hotel Gran Derby Suites, a Small Luxury Hotel of the World",1510.0,8.2,1183.0,4.0,stars,"Les Corts, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+"InterContinental Barcelona, an IHG Hotel",2426.0,8.8,2127.0,5.0,stars,"Sants-Montjuïc, Barcelona","Classic Room
+Multiple bed types"
+Sunotel Aston,1327.0,7.5,990.0,3.0,stars,"Eixample, Barcelona","Economy Double Room
+1 full bed"
+Grand Hyatt Barcelona,1957.0,8.6,5044.0,5.0,stars,"Les Corts, Barcelona","Queen Room
+1 queen bed"
+Ola Living Hostal Diagonal,1274.0,7.0,957.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Double Room
+1 full bed"
+Sagrada Familia,1441.0,8.4,12.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 45m²
+1 full bed
+Free cancellation"
+Paral·lel,1248.0,8.3,3845.0,2.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Forget Me Not Barcelona,2109.0,9.1,1758.0,4.0,squares,"Eixample, Barcelona","Double or Twin Room with Street View
+Multiple bed types
+Breakfast included
+Only 1 room left at this price on our site"
+Hotel Barcelona Catedral,2149.0,8.5,3955.0,4.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 king bed
+Only 5 rooms left at this price on our site"
+Abba Sants,1208.0,8.3,2551.0,4.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room (1 Adult)
+2 beds (1 twin, 1 full)"
+H10 Casa Mimosa 4* Sup,3303.0,9.3,1012.0,4.0,stars,"Eixample, Barcelona","Deluxe Double Room with Garden View
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property"
+Aparthotel Bertrán,1310.0,8.5,1098.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","One-Bedroom Apartment (2 Adults)
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 45m²
+2 twin beds
+Only 2 left at this price on our site"
+Hostal Marenostrum,1212.0,8.3,2645.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed"
+Chic & Basic Velvet,1518.0,8.2,3335.0,3.0,stars,"Eixample, Barcelona","Double Interior Room
+1 queen bed
+Only 4 rooms left at this price on our site"
+Petit Palace Museum,1650.0,8.3,2741.0,4.0,stars,"Eixample, Barcelona","Small Double Room
+1 full bed
+Only 5 rooms left at this price on our site"
+Eurostars Monumental,1748.0,8.5,1800.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+The Moods Catedral Hostal Boutique,1502.0,8.4,986.0,2.0,stars,"Ciutat Vella, Barcelona","Interior Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Hostal Barcelona,881.0,7.2,3923.0,2.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room with Private Bathroom
+Beds: 1 double or 2 twins"
+Atica Apartments - by Weflating,1194.0,7.6,844.0,3.0,squares,"Horta-Guinardó, Barcelona","Standard Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 40m²
+1 full bed
+Only 2 left at this price on our site"
+Guitart Grand Passage,1460.0,7.9,1259.0,4.0,stars,"Eixample, Barcelona","Comfort Double Room
+2 twin beds"
+Hotel Glòries,1268.0,7.9,2582.0,3.0,stars,"Eixample, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins"
+Seventy Barcelona,2445.0,9.1,2938.0,4.0,stars,"Eixample, Barcelona","Basic Double Room with Spa Access
+Beds: 1 double or 2 twins"
+Hostemplo Sagrada Familia,1534.0,8.4,983.0,3.0,squares,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+MH Apartments Urban,2635.0,8.8,1062.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 75m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+DreamKeys Barcelona City,1874.0,7.9,1240.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Twin Room
+2 twin beds
+Free cancellation"
+Urbany Hostel Barcelona,1101.0,7.4,2594.0,,,"Sant Martí, Barcelona","Twin Room with Private Bathroom
+2 bunk beds"
+Apartamentos Barcelona - Iberia,1218.0,9.1,119.0,3.0,squares,"Sants-Montjuïc, Barcelona","Loft
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 35m²
+1 full bed
+Only 1 left at this price on our site"
+Gran Hotel Barcino,1659.0,8.5,1152.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds"
+NH Collection Barcelona Podium,1892.0,8.8,2915.0,4.0,stars,"Eixample, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+Barcelona Apartment Gran de Gràcia,2136.0,7.9,289.0,3.0,squares,"Gràcia, Barcelona","Superior Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 44m²
+3 beds (1 full, 2 sofa beds)
+Free cancellation
+No prepayment needed – pay at the property
+Only 4 left at this price on our site"
+BacHome Terrace B&B,1521.0,8.6,1090.0,3.0,squares,"Eixample, Barcelona","Double or Twin Room with City View
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Hotel Casa Bonay,2080.0,9.0,869.0,4.0,stars,"Eixample, Barcelona","Double Room
+1 queen bed"
+Hostal Oliva,1350.0,8.8,1741.0,3.0,squares,"Eixample, Barcelona","Standard Double Room
+1 full bed
+Free cancellation
+Only 2 rooms left at this price on our site"
+Praktik Rambla,1653.0,8.5,2241.0,3.0,stars,"Eixample, Barcelona","Double Room
+1 queen bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+ApartEasy - Central Gracia Apartments,2036.0,6.9,231.0,3.0,squares,"Gràcia, Barcelona","Apartment with Terrace
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+4 beds (3 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Barceló Sants,1840.0,8.7,9011.0,4.0,stars,"Sants-Montjuïc, Barcelona","Deluxe Double Room with City View
+1 king bed
+Only 5 rooms left at this price on our site"
+Catalonia La Maquinista,1151.0,8.4,2683.0,4.0,stars,"Sant Andreu, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Sercotel Hotel Rosellon,2063.0,8.3,5836.0,4.0,stars,"Eixample, Barcelona","Classic Twin Room
+2 twin beds"
+Chic & Basic Born Boutique Hotel,1521.0,8.2,1569.0,3.0,stars,"Ciutat Vella, Barcelona","Small Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Luxury Born,1293.0,6.8,4.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 60m²
+1 full bed
+Free cancellation"
+Barcelona Apartment Val,2493.0,8.5,588.0,4.0,squares,"Eixample, Barcelona","Standard One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 47m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 4 left at this price on our site"
+You Stylish Beach Apartments,2509.0,7.7,80.0,3.0,squares,"Sant Martí, Barcelona","Basic Two Bedrooms Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+H10 Casanova,1793.0,8.8,2096.0,4.0,stars,"Eixample, Barcelona","Classic Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 2 rooms left at this price on our site"
+Hotel Boutique Mirlo Barcelona,3459.0,9.3,1070.0,5.0,stars,"Sarrià-St. Gervasi, Barcelona","Suite Suite Tibidabo 32 with Hammam, Hydromassage Bathtub and Sauna
+Private suite
+2 beds (1 king, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Sagrada Familia,2256.0,8.5,28.0,4.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Amister Apartments,2448.0,8.8,928.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Family Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 king, 1 sofa bed)
+Free cancellation"
+Olivia Plaza Hotel,2360.0,9.3,3966.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Mercer Hotel Barcelona,4075.0,9.2,272.0,5.0,stars,"Ciutat Vella, Barcelona","Superior Double Room
+1 king bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 6 rooms left at this price on our site"
+Good-Home Paseo de Gracia,1420.0,8.1,497.0,3.0,squares,"Eixample, Barcelona","Double Room with Private Bathroom
+2 twin beds
+Breakfast included
+Free cancellation
+Only 1 room left at this price on our site"
+Duquesa de Cardona Hotel 4 Sup by Grup Duquessa,1879.0,9.2,1820.0,4.0,stars,"Ciutat Vella, Barcelona","Standard Interior Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 rooms left at this price on our site"
+Centric Apartments Paseo de Gracia,3003.0,8.0,444.0,4.0,squares,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 70m²
+3 beds (2 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Grupotel Gravina,1657.0,8.4,4299.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Generator Barcelona,1320.0,7.7,7589.0,1.0,stars,"Gràcia, Barcelona","Deluxe Twin Room
+2 twin beds
+Only 6 rooms left at this price on our site"
+Acta Splendid,1521.0,8.6,3015.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Apartments Barcelona & Home Deco Eixample,2736.0,9.2,64.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Penthouse Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Rambla 102,3426.0,9.1,1190.0,4.0,squares,"Ciutat Vella, Barcelona","Suite with Terrace
+Private suite • 1 bedroom • 1 living room • 1 bathroom • 50m²
+2 beds (1 king, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Picasso Suites,2451.0,8.6,628.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Eco Boutique Hostal Grau,1733.0,9.0,1300.0,2.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Multiple bed types"
+360 Hostel Borne,1441.0,8.4,3057.0,,,"Eixample, Barcelona","Twin Room
+3 beds (2 twins, 1 queen)
+Only 1 room left at this price on our site"
+Cozy Apartment with Suite 21,1744.0,,,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+1 queen bed
+Free cancellation"
+Apartments Sixtyfour,4481.0,9.4,1292.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 80m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+Only 2 left at this price on our site"
+Arya Stadium Hotel,1563.0,8.3,3239.0,3.0,stars,"Sants-Montjuïc, Barcelona","Interior Double Room
+Beds: 1 double or 2 twins"
+El Born Guest House by Casa Consell,1697.0,8.4,380.0,1.0,stars,"Ciutat Vella, Barcelona","Small Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Aparthotel Silver,1300.0,8.7,1348.0,3.0,stars,"Gràcia, Barcelona","Standard Double or Twin Room with Garden View
+Beds: 1 double or 2 twins"
+Hotel Jazz,1667.0,8.8,3261.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+"Hotel Granados 83, a member of Preferred Hotels & Resorts",1753.0,8.5,1674.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+BCN Rambla Catalunya Apartments,2121.0,8.9,583.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 50m²
+2 beds (1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Room Mate Gerard,1725.0,8.7,2829.0,4.0,stars,"Eixample, Barcelona","Basic Interior Double Room
+1 queen bed
+Only 3 rooms left at this price on our site"
+HG City Suites Barcelona,1323.0,8.5,721.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Double Room
+1 queen bed
+Only 6 rooms left at this price on our site"
+"Hotel Indigo Barcelona - Plaza Catalunya 4Sup, an IHG Hotel",1683.0,8.1,687.0,4.0,stars,"Eixample, Barcelona","Standard Room
+1 full bed
+Only 6 rooms left at this price on our site"
+Tendency Apartments 5,3254.0,7.9,147.0,3.0,squares,"Eixample, Barcelona","Two bedroom apartment 1
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (1 sofa bed, 2 queens)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Cortes Rambla,2222.0,8.1,2090.0,3.0,stars,"Ciutat Vella, Barcelona","Small Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Hotel SB Glow 4 Sup,1382.0,8.3,5406.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Ola Living Born,1946.0,8.1,638.0,4.0,squares,"Ciutat Vella, Barcelona","Studio Apartment
+Entire studio • 1 bathroom • 1 kitchen • 24m²
+1 full bed
+Only 2 left at this price on our site"
+Hotel Monegal,1436.0,7.4,4503.0,2.0,stars,"Ciutat Vella, Barcelona","Interior twin room
+2 twin beds
+Only 7 rooms left at this price on our site"
+Located on the iconic Paseo de Gracia,4695.0,,,,,Barcelona,"Deluxe Apartment
+3 king beds
+Breakfast included
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Hotel El Call,1514.0,7.5,2458.0,1.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed"
+Tendency Apartments 7,2743.0,7.6,124.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment 3
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 48m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel SB Diagonal Zero 4 Sup,1204.0,8.2,6486.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+1208 - EXCLUSIVE DESIGN APARTMENT,3808.0,8.1,53.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 2 bathrooms • 90m²
+2 full beds
+Free cancellation"
+"Las Ramblas, comfort in BCN for 8 persons",4442.0,8.0,13.0,3.0,squares,"Ciutat Vella, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 3 bathrooms • 1 kitchen • 95m²
+7 beds (6 twins, 1 full)
+Free cancellation"
+Hotel Everest,1372.0,8.0,1412.0,1.0,stars,"Horta-Guinardó, Barcelona","Twin Room
+2 twin beds
+Only 2 rooms left at this price on our site"
+Hostal Aslyp 114,1540.0,8.9,1285.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 full bed
+Breakfast included
+Only 5 rooms left at this price on our site"
+Cosmopolitan Boutique Rambla,1546.0,8.5,941.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 full bed"
+BYPILLOW Mothern,1599.0,8.2,5333.0,3.0,stars,"Eixample, Barcelona","Standard Double Room
+1 full bed"
+Beautiful apartment in Las Ramblas Barcelona 6pax,3723.0,7.7,25.0,3.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 60m²
+4 beds (2 twins, 1 full, 1 bunk bed)
+Free cancellation"
+Alma Barcelona GL,4805.0,8.9,473.0,5.0,stars,"Eixample, Barcelona","Deluxe Double or Twin Room
+Multiple bed types
+Free cancellation
+No prepayment needed – pay at the property"
+Tendency Apartments 6,2912.0,8.0,130.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment 3- Diputacion 317
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Lindo apartamento Vila de Gracia,1744.0,8.3,3.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+BcnStop Sagrada Familia,1514.0,8.2,1290.0,3.0,squares,"Horta-Guinardó, Barcelona","Apartment (2 Adults)
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 27m²
+1 queen bed"
+Ferran Pedralbes Penthouse,4639.0,8.8,9.0,4.0,squares,"Les Corts, Barcelona","Apartment with Terrace
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 85m²
+6 beds (4 twins, 2 queens)
+Free cancellation
+Only 1 left at this price on our site"
+Hostal Girona,1753.0,8.8,2603.0,,,"Eixample, Barcelona","Double or Twin Room with Balcony and Shared Bathroom
+1 full bed
+Breakfast included
+Only 3 rooms left at this price on our site"
+Apartamento de cuatro dormitorios en Carrer Diputació,3352.0,,,,,"Eixample, Barcelona","Apartment
+2 full beds
+Free cancellation"
+May Ramblas Hotel,1422.0,7.4,4199.0,3.0,stars,"Ciutat Vella, Barcelona","Superior Double Room
+1 queen bed"
+Central Suites Barcelona,4766.0,8.8,322.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with Balcony (city views)
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 55m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Room Mate Carla,1799.0,8.6,3167.0,4.0,stars,"Eixample, Barcelona","Standard Interior Double Room
+1 full bed
+Only 7 rooms left at this price on our site"
+Barcelonaforrent The Claris Suites,3559.0,6.5,11.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Luxury Apartment With Sea View!,7453.0,9.8,26.0,4.0,squares,"Sant Martí, Barcelona","Apartment with Sea View
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 140m²
+6 beds (2 twins, 1 full, 1 sofa bed, 2 queens)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel SERHS Rivoli Rambla,1519.0,8.4,2216.0,4.0,stars,"Ciutat Vella, Barcelona","Deluxe Double or Twin Room
+Beds: 1 double or 2 twins"
+Barcelonaforrent Tucson Suites,4242.0,7.5,20.0,4.0,squares,"Eixample, Barcelona","Superior Three-Bedroom Apartment with Terrace
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 75m²
+4 beds (3 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelonaforrent Alessandra Central Ramblas Apartment,6088.0,9.1,17.0,4.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment
+5 beds (3 twins, 2 fulls)
+Free cancellation"
+Barcelonaforrent The Living Apartment,4485.0,8.0,8.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment - Bailén, 23
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 120m²
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+Tendency Apartments 9,6608.0,8.4,20.0,3.0,squares,"Eixample, Barcelona","Apartment with Terrace 10
+Entire apartment • 4 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 150m²
+4 queen beds
+Free cancellation
+Only 2 left at this price on our site"
+Barcelonaforrent Vila Olimpica Pool Suites,4691.0,8.4,9.0,4.0,squares,"Sant Martí, Barcelona","Three-Bedroom Apartment with swimming pool - Ramón Turró, 52
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+6 twin beds
+Free cancellation
+Only 1 left at this price on our site"
+Room Mate Anna,2005.0,8.7,4361.0,4.0,stars,"Eixample, Barcelona","Interior Basic Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+HOTEL FORNOS - Barcelona,1429.0,7.0,1686.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Breakfast included"
+One of the most outstanding ultra-modern mansions,6228.0,,,,,Barcelona,"Deluxe Villa
+Entire villa • 7 bedrooms • 1 bathroom • 1,000m²
+7 beds (3 kings, 4 queens)
+Breakfast included
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Ciudad Condal Hostal - Paseo de Gracia,1038.0,7.7,1354.0,3.0,stars,"Eixample, Barcelona","Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Hotel Constanza,1406.0,8.7,2260.0,2.0,stars,"Eixample, Barcelona","Superior Twin Room
+2 twin beds"
+Hotel Casa Gardenia,1479.0,7.9,551.0,2.0,stars,"Ciutat Vella, Barcelona","Economy Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Limonaia,1393.0,8.3,1227.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+SmartRoom Barcelona,1189.0,8.5,1769.0,,,"Sants-Montjuïc, Barcelona","Budget Twin Room
+2 twin beds
+Free cancellation
+Only 1 room left at this price on our site"
+Hotel Inglés,1616.0,7.6,2944.0,1.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 1 room left at this price on our site"
+Hotel Brummell,1872.0,8.9,920.0,4.0,stars,"Sants-Montjuïc, Barcelona","Double Room with Pool View
+1 full bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Condes de Barcelona,2187.0,8.9,809.0,4.0,stars,"Eixample, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+BYPILLOW Twenty,1809.0,8.4,736.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Casa Gracia,1198.0,8.3,7618.0,,,"Gràcia, Barcelona","Indoor Twin Room
+2 twin beds"
+Charmsuites Paralel,1860.0,7.7,1549.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom
+3 beds (2 twins, 1 sofa bed)
+Only 1 left at this price on our site"
+"SANT ANTONI HOSTAL, Sustainable Tourism",1028.0,7.1,692.0,1.0,stars,"Eixample, Barcelona","Double Room with Private Bathroom
+1 full bed
+Breakfast included
+Only 2 rooms left at this price on our site"
+ICON Bcn,2150.0,8.7,2266.0,4.0,stars,"Eixample, Barcelona","Small Double Room
+1 full bed
+Breakfast included"
+AC Hotel Irla by Marriott,1636.0,8.0,87.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Room Queen, Guest room, 1 Queen
+1 queen bed
+Only 5 rooms left at this price on our site"
+Hotel Astoria,1454.0,8.3,2180.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 7 rooms left at this price on our site"
+Casa Lirio,1492.0,7.9,1812.0,2.0,stars,"Ciutat Vella, Barcelona","Standard Double or Twin Room
+2 twin beds"
+Aspasios Catedral Apartments,2304.0,8.5,397.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 43m²
+2 beds (1 sofa bed, 1 queen)
+Only 2 left at this price on our site"
+Aspasios Paseo de Gracia Apartments,2225.0,8.6,879.0,4.0,squares,"Eixample, Barcelona","Penthouse Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Primavera Hostel,1260.0,9.1,2052.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 3 rooms left at this price on our site"
+BcnStop Parc Güell,1721.0,8.5,599.0,3.0,squares,"Gràcia, Barcelona","Apartment (1-2 Adults)
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Only 1 left at this price on our site"
+Mihlton Barcelona Boutique B&B,2119.0,8.7,1066.0,3.0,squares,"Eixample, Barcelona","Superior Triple Room with Balcony
+3 twin beds
+Only 1 room left at this price on our site"
+Alba Hotel,1578.0,7.0,1716.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed"
+Ola Living Gracia,1819.0,7.3,15.0,4.0,squares,"Gràcia, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 50m²
+1 queen bed
+Only 1 left at this price on our site"
+Urbany Hostel BCN GO!,1119.0,7.1,2565.0,,,"Eixample, Barcelona","Double Room
+1 full bed
+Only 7 rooms left at this price on our site"
+H10 Art Gallery 4* Sup,1853.0,8.6,1546.0,4.0,stars,"Eixample, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Aspasios Poble Nou Apartments,1868.0,8.3,228.0,3.0,squares,"Sant Martí, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 30m²
+1 full bed
+Only 1 left at this price on our site"
+"Via Sants Hotel Barcelona, Tapestry Collection By Hilton",1956.0,8.7,150.0,4.0,stars,"Eixample, Barcelona","Superior Queen Room
+1 queen bed
+Only 7 rooms left at this price on our site"
+BCN Urbaness Hotels Bonavista,1540.0,7.8,1940.0,2.0,stars,"Gràcia, Barcelona","Double Room
+1 full bed
+Free cancellation
+Only 5 rooms left at this price on our site"
+Ikonik Ramblas,1798.0,8.2,2125.0,4.0,stars,"Ciutat Vella, Barcelona","Double Room
+Beds: 1 double or 2 twins"
+Citytrip Palau de la Música,1660.0,8.1,120.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment Gótico
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 4 left at this price on our site"
+Nuevo apartamento zona Paseo de Gracia,1645.0,9.0,1.0,4.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 55m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation"
+Ola Living Portaferrissa,2338.0,8.4,1398.0,4.0,squares,"Ciutat Vella, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Hotel Àmbit Barcelona,1861.0,8.7,1641.0,4.0,stars,"Eixample, Barcelona","Comfort Double or Twin Room
+1 full bed
+Only 2 rooms left at this price on our site"
+Nobu Hotel Barcelona,2448.0,8.2,2432.0,5.0,stars,"Sants-Montjuïc, Barcelona","Deluxe Room
+1 king bed"
+Flor Parks,1720.0,8.4,1917.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room (1 - 2 Adults)
+1 full bed"
+SM Hotel Teatre Auditori,1313.0,8.7,2804.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 1 room left at this price on our site"
+B&B Boutique Ca La Maria,1898.0,9.0,1099.0,4.0,squares,"Eixample, Barcelona","Standard Double Room
+1 queen bed
+Breakfast included
+Only 2 rooms left at this price on our site"
+Cien,1692.0,8.2,1042.0,3.0,squares,"Eixample, Barcelona","Superior Double Room with Balcony
+1 full bed
+Breakfast included
+Only 3 rooms left at this price on our site"
+Ola Living Music,2771.0,8.4,951.0,4.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 85m²
+5 beds (3 twins, 1 full, 1 sofa bed)
+Only 3 left at this price on our site"
+Hotel Concordia Barcelona,1488.0,8.3,2343.0,4.0,stars,"Sants-Montjuïc, Barcelona","Comfort Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Fuster Apartments by Aspasios,2284.0,9.4,564.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 80m²
+3 beds (2 twins, 1 queen)
+Only 1 left at this price on our site"
+BYPILLOW Wander,1341.0,7.9,930.0,3.0,squares,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 7 rooms left at this price on our site"
+Hostal La Terrassa,1056.0,8.3,4143.0,1.0,stars,"Ciutat Vella, Barcelona","Interior Double Room without Views
+1 full bed
+Only 7 rooms left at this price on our site"
+Àtic Trobador,1415.0,8.6,5.0,3.0,squares,"Horta-Guinardó, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 45m²
+1 full bed
+Free cancellation"
+Aspasios City Oasis Apartments,2401.0,8.8,160.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 55m²
+2 full beds
+Only 2 left at this price on our site"
+Attica 21 Barcelona Mar,1534.0,8.2,1112.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+YOUTH HOSTEL - Central and Basic Drassanes,841.0,7.9,2609.0,,,"Ciutat Vella, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 6 rooms left at this price on our site"
+Hotel Medinaceli,1839.0,8.1,1482.0,4.0,stars,"Ciutat Vella, Barcelona","Double Room
+Beds: 1 double or 2 twins"
+Apartments Sata Olimpic Village Area,2106.0,8.9,551.0,4.0,squares,"Sant Martí, Barcelona","Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 sofa bed)
+Only 3 left at this price on our site"
+Aspasios Urquinaona Apartments,2291.0,8.2,354.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment (2-4 Adults)
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (1 full, 2 bunk beds)
+Only 2 left at this price on our site"
+Tres Torres Atiram Hotels,1179.0,8.9,1292.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Twin Room (1-2 Adults)
+2 twin beds"
+Monrooms Barcelona,1174.0,8.1,664.0,3.0,squares,"Gràcia, Barcelona","Budget Double Room
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+INNSiDE by Meliá Barcelona Apolo,1862.0,8.9,2082.0,4.0,stars,"Sants-Montjuïc, Barcelona","Innside Room
+Beds: 1 double or 2 twins"
+Aspasios Market Balconies Apartments,1915.0,9.3,445.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with City View
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Chic & Basic Lemon Boutique Hotel,1374.0,8.2,1857.0,2.0,stars,"Ciutat Vella, Barcelona","Economy Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+"The Hoxton, Poblenou",1988.0,8.5,2675.0,4.0,stars,"Sant Martí, Barcelona","Roomy
+1 king bed
+Free cancellation
+No prepayment needed – pay at the property"
+Private rooms on Tamarit street,868.0,7.3,38.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Hotel Lugano Barcelona,1286.0,8.7,2080.0,3.0,stars,"Eixample, Barcelona","Twin Room
+Beds: 1 double or 2 twins"
+Cosmo Apartments Passeig de Gràcia,2336.0,8.0,1711.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment (1- 4 Adults)
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Only 7 left at this price on our site"
+Ola Living Calabria,2470.0,8.2,719.0,4.0,squares,"Eixample, Barcelona","Apartment - Split Level
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 36m²
+2 beds (1 king, 1 sofa bed)
+Only 1 left at this price on our site"
+Casa Gracia Apartments,1586.0,8.1,413.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 35m²
+1 queen bed
+Only 5 left at this price on our site"
+Hostalin Barcelona Diputacion,1027.0,6.5,2071.0,2.0,stars,"Eixample, Barcelona","Large Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Sharing flats in gotico,1084.0,8.1,30.0,,,"Ciutat Vella, Barcelona","Budget Double Room
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Aspasios Gracia Apartments,2308.0,8.6,390.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 full beds
+Only 1 left at this price on our site"
+Molino Fresh,2104.0,7.2,116.0,3.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 70m²
+5 beds (4 twins, 1 queen)
+Only 2 left at this price on our site"
+BYPILLOW Ramblas,1608.0,8.1,1047.0,3.0,squares,"Ciutat Vella, Barcelona","Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Aspasios Sagrada Familia Apartments,2861.0,9.2,262.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 80m²
+5 beds (4 twins, 1 full)
+Only 2 left at this price on our site"
+Stay U-nique Apartments Est,1691.0,8.3,79.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+1 full bed
+Only 1 left at this price on our site"
+Barcelona Central Apartments,1299.0,7.0,108.0,3.0,squares,"Eixample, Barcelona","Studio
+Entire studio • 1 bathroom • 32m²
+1 full bed
+Only 1 left at this price on our site"
+Cosmo Apartments Marina – Auditori,2121.0,8.1,1168.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+3 beds (2 fulls, 1 sofa bed)
+Only 1 left at this price on our site"
+Espais Blaus Apartments,1741.0,9.2,666.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Catalunya,1606.0,8.2,3033.0,2.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Stay U-nique Apartments Rambla Catalunya,1962.0,7.7,121.0,3.0,squares,"Eixample, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²
+1 full bed
+Only 1 left at this price on our site"
+Apartaments Marina - Abapart,2311.0,8.8,2268.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment (4 Adults)
+3 beds (2 twins, 1 queen)
+Only 1 room left at this price on our site"
+ClassBedroom Gothic Ramblas Apartments,1395.0,7.7,39.0,3.0,squares,"Ciutat Vella, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 35m²
+2 twin beds
+Only 1 left at this price on our site"
+Apartments Sata Sagrada Familia Area,1853.0,8.6,808.0,3.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 40m²
+4 twin beds
+Only 7 left at this price on our site"
+Pierre & Vacances Barcelona Sants,1448.0,8.5,1551.0,3.0,squares,"Sants-Montjuïc, Barcelona","Studio
+2 beds (1 twin, 1 sofa bed)"
+Our Penthouse with Jacuzzi close to Paseo de Gracia,5503.0,8.9,38.0,,,"Eixample, Barcelona","Two-Bedroom Deluxe Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 84m²
+2 queen beds
+Free cancellation"
+DestinationBCN Universitat Apartments,2457.0,9.2,88.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Penthouse with Terrace
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 40m²
+1 queen bed
+Only 1 left at this price on our site"
+Habitat Apartments Paseo de Gracia,2805.0,7.4,109.0,3.0,squares,"Eixample, Barcelona","Superior Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²
+4 beds (2 twins, 1 king, 1 sofa bed)
+Only 1 left at this price on our site"
+Sofitel Barcelona Skipper,2473.0,8.9,1072.0,5.0,stars,"Ciutat Vella, Barcelona","Superior Room with City View
+1 full bed"
+Standbyme Ramblas,1553.0,8.6,1616.0,2.0,stars,"Ciutat Vella, Barcelona","Standard Twin Room
+2 twin beds
+Only 4 rooms left at this price on our site"
+Barcelona4Seasons II,2012.0,8.0,141.0,3.0,squares,"Ciutat Vella, Barcelona","Studio - Valencia 163
+Entire studio • 1 bathroom • 1 kitchen • 35m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Sonder Casa Luz,1573.0,8.4,2889.0,4.0,stars,"Eixample, Barcelona","Queen Room
+1 queen bed"
+Central and Basic Universitat for YOUNG HOSTEL,853.0,7.6,3911.0,1.0,stars,"Ciutat Vella, Barcelona","Twin Room with Shared Bathroom
+2 twin beds
+Only 6 rooms left at this price on our site"
+H10 Universitat,2305.0,9.1,2322.0,4.0,stars,"Eixample, Barcelona","Classic Basic Room
+1 queen bed
+Only 2 rooms left at this price on our site"
+The Conica Deluxe Bed&Breakfast,2054.0,9.0,1199.0,4.0,squares,"Eixample, Barcelona","Economy Double Room
+1 queen bed
+Only 2 rooms left at this price on our site"
+Hotel Barcelona Condal Mar Affiliated by Meliá,1548.0,8.0,1861.0,4.0,stars,"Sant Martí, Barcelona","Standard Room
+Beds: 1 double or 2 twins"
+Aparthotel Mariano Cubi Barcelona,1522.0,8.3,2532.0,4.0,stars,"Sarrià-St. Gervasi, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+The Moods Oasis,1417.0,8.6,2047.0,3.0,stars,"Sarrià-St. Gervasi, Barcelona","Standard Double or Twin Room
+1 queen bed
+Only 3 rooms left at this price on our site"
+Sunny Apt Barcelona 22@,1905.0,9.3,77.0,3.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 beds (1 twin, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+"Alexandra Barcelona Hotel, Curio Collection by Hilton",2260.0,8.5,420.0,4.0,stars,"Eixample, Barcelona","Superior Twin Room
+2 twin beds"
+The Corner Apartments by Aspasios,3160.0,9.0,1001.0,4.0,squares,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 85m²
+5 beds (4 twins, 1 full)
+Only 1 left at this price on our site"
+Hotel Miramar Barcelona GL,2702.0,7.8,1474.0,5.0,stars,"Sants-Montjuïc, Barcelona","Deluxe Double or Twin Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+Express by Gaiarooms,1305.0,7.0,1040.0,2.0,stars,"Gràcia, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 3 rooms left at this price on our site"
+Apartment Eixample Dret Sagrada Familia by Interhome,1311.0,7.2,5.0,3.0,stars,"Eixample, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 39m²
+2 twin beds
+Free cancellation
+Only 1 left at this price on our site"
+BcnStop Sant Pau Suites,1553.0,8.8,151.0,4.0,squares,"Sant Martí, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 35m²
+1 queen bed
+Only 1 left at this price on our site"
+Casa Lit Barcelona,1279.0,8.2,3427.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+1 full bed"
+Latroupe Poblenou Beach,1456.0,8.6,4122.0,,,"Sant Martí, Barcelona","4-Bed Mixed Dormitory Room
+Shared dorm room
+4 bunk beds
+Only 2 left at this price on our site"
+BUHO Boutique Rooms,1906.0,8.3,862.0,3.0,squares,"Eixample, Barcelona","DeluxeTriple Room
+2 beds (1 twin, 1 queen)
+Only 3 rooms left at this price on our site"
+Stay U-nique Apartments Calabria,2138.0,8.2,26.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 69m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+One Bedroom Apartment in Carrer Aragó,1884.0,,,,,"Eixample, Barcelona","One-Bedroom Apartment
+1 queen bed
+Free cancellation"
+Cozy Apartment with Ensuite 11,1667.0,,,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+4 beds (2 twins, 1 full, 1 queen)
+Free cancellation"
+Habitat Apartments Alissia,2556.0,7.6,100.0,3.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+3 beds (1 full, 1 bunk bed, 1 sofa bed)
+Only 1 left at this price on our site"
+Aspasios Rambla Catalunya Apartments,2768.0,8.7,1789.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 full)
+Only 2 left at this price on our site"
+Tibidabo Apartments,1539.0,8.8,592.0,3.0,squares,"Horta-Guinardó, Barcelona","One-Bedroom Apartment with Terrace
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 35m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Europark,1545.0,8.7,3770.0,3.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins"
+Abba Rambla Hotel,1427.0,8.3,1655.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+Beds: 1 double or 2 twins"
+Habitat Apartments Eixample Balconies.,2985.0,8.1,127.0,4.0,stars,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 89m²
+3 beds (2 fulls, 1 sofa bed)
+Only 1 left at this price on our site"
+Weflating City Center,2145.0,8.7,2132.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 65m²
+1 queen bed
+Only 1 left at this price on our site"
+Ako Suites Hotel,1712.0,8.2,1208.0,4.0,stars,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 twin beds
+Free cancellation"
+Close to Passeig de Gracia,1833.0,7.2,774.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Hotel Alguer Camp Nou,935.0,8.3,3826.0,2.0,stars,"Les Corts, Barcelona","Double Room
+1 full bed"
+Luxury Patio,1204.0,4.8,6.0,,,"Sant Martí, Barcelona","One-Bedroom Apartment
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Hostal Alogar,737.0,8.8,1351.0,2.0,stars,"Sarrià-St. Gervasi, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 3 rooms left at this price on our site"
+Ola Living Santa Anna,3257.0,8.2,645.0,3.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 full)
+Only 3 left at this price on our site"
+Cosmo Apartments Consell de Cent - Plaza Universitat,2819.0,8.4,249.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+4 beds (2 twins, 1 sofa bed, 1 queen)"
+Habitat Apartments Pedrera,2672.0,8.3,101.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with 2 Bathrooms
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 70m²
+3 beds (2 twins, 1 full)
+Only 1 left at this price on our site"
+Aspasios Las Ramblas Apartments,2514.0,8.3,618.0,4.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 60m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Arrivo Apartments,2479.0,8.8,1017.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+4 beds (3 twins, 1 full)
+Only 2 left at this price on our site"
+TSA La Mare,1834.0,8.0,191.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment (1-4 Adults)
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 47m²
+3 beds (2 sofa beds, 1 queen)
+Only 2 left at this price on our site"
+Casa Maca Guest House,1478.0,7.4,987.0,,,"Eixample, Barcelona","Budget Double Room with Shared Bathroom
+1 full bed
+Only 2 rooms left at this price on our site"
+Renaissance Barcelona Hotel,2659.0,8.3,192.0,5.0,stars,"Eixample, Barcelona","Urban Superior King Room
+1 king bed
+Only 5 rooms left at this price on our site"
+Be Barcelona Eixample Urquinaona II,1695.0,8.7,73.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+1 full bed
+Free cancellation
+Only 2 left at this price on our site"
+Happy People Gaudi Sant Pau Apartments,2292.0,8.0,738.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Barcelona4Seasons - Miro,1639.0,7.9,23.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Click&Flat Sugranyes,1331.0,8.1,7.0,3.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 40m²
+1 queen bed"
+Chic & Basic Tallers Hostal,1177.0,7.1,1248.0,3.0,squares,"Ciutat Vella, Barcelona","Double Room
+1 queen bed
+Breakfast included
+Only 4 rooms left at this price on our site"
+Apartment Eixample Comfort,1696.0,9.5,25.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 70m²
+2 beds (1 sofa bed, 1 queen)"
+Classbedroom Born Apartments,1378.0,7.9,165.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment - Second Floor - Calle de les Trompetes 4
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 25m²
+2 twin beds
+Only 1 left at this price on our site"
+Apartaments-Hotel Hispanos 7 Suiza,2854.0,9.0,1673.0,4.0,stars,"Eixample, Barcelona","Junior Suite
+Private suite • 2 bedrooms • 1 living room • 2 bathrooms • 70m²
+4 beds (2 twins, 1 sofa bed, 1 queen)"
+Aspasios Diagonal Art Apartments,1950.0,8.6,406.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 beds (1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Putxet by Gaiarooms,1027.0,5.6,1477.0,2.0,stars,"Sarrià-St. Gervasi, Barcelona","Economy Double Room
+1 full bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 5 rooms left at this price on our site"
+Barcelona4Seasons - Sagrada Familia,2296.0,8.1,175.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment - Valencia, 463
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 75m²
+5 beds (3 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+BYPILLOW House,1315.0,8.2,1222.0,1.0,stars,"Horta-Guinardó, Barcelona","Twin Room with Balcony
+2 twin beds
+Only 2 rooms left at this price on our site"
+Midtown Apartments,2497.0,9.4,978.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment (2 Adults)
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 50m²
+2 twin beds"
+Suites Avenue,2391.0,8.9,1288.0,4.0,squares,"Eixample, Barcelona","Superior Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 53m²
+1 queen bed
+Only 5 left at this price on our site"
+AinB Picasso-Corders Apartments,1999.0,7.0,129.0,3.0,squares,"Ciutat Vella, Barcelona","Studio (2 Adults)
+Entire studio • 1 bathroom • 35m²
+Beds: 1 double or 2 twins
+Only 4 left at this price on our site"
+Home to Home Barcelona,2343.0,8.8,408.0,4.0,squares,"Sants-Montjuïc, Barcelona","Duplex Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Hostal Sol y K,1798.0,7.6,1689.0,2.0,stars,"Ciutat Vella, Barcelona","Double Room with Balcony and Private Bathroom
+1 queen bed
+Only 5 rooms left at this price on our site"
+Cosmo Apartments Sants,1566.0,8.2,2329.0,3.0,squares,"Sants-Montjuïc, Barcelona","Loft
+2 beds (1 full, 1 sofa bed)"
+Decô Apartments Barcelona-Diagonal,2281.0,9.1,291.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 62m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Alojamiento Gran Vi,757.0,7.7,7.0,,,"Eixample, Barcelona","Twin Room with Shared Bathroom
+1 bunk bed
+Only 1 room left at this price on our site"
+"Kimpton Vividora Hotel, an IHG Hotel",2622.0,8.8,1089.0,5.0,stars,"Ciutat Vella, Barcelona","Queen Room
+1 queen bed
+Only 6 rooms left at this price on our site"
+Sant Jordi Hostels Rock Palace,1833.0,8.4,3315.0,,,"Eixample, Barcelona","6-Bed Mixed Dormitory Room
+Shared dorm room
+6 bunk beds
+Only 1 left at this price on our site"
+Yurbban Ramblas Boutique Hotel,1884.0,9.4,1396.0,3.0,stars,"Ciutat Vella, Barcelona","Standard Double Room
+1 queen bed
+Only 4 rooms left at this price on our site"
+Best Western Plus Hotel Alfa Aeropuerto,989.0,8.3,3773.0,4.0,stars,"Sants-Montjuïc, Barcelona","Room Assigned on Arrival
+1 twin bed"
+BBarcelona Central Boutique Apartments,2039.0,8.0,916.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+1 full bed
+Only 1 left at this price on our site"
+Barrio Gotico Apartments Ferran,1979.0,8.6,135.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 2 bathrooms • 1 kitchen • 30m²
+3 beds (1 full, 2 sofa beds)
+Free cancellation
+Only 1 left at this price on our site"
+La Fira,1851.0,7.1,141.0,3.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment- Concordia
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+4 beds (3 twins, 1 full)
+Only 1 left at this price on our site"
+Hotel Rec Barcelona - Adults Only,1616.0,8.7,3670.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+B Hotel,1454.0,8.6,3314.0,3.0,stars,"Eixample, Barcelona","Double or Twin Room (1-2 Adults)
+Beds: 1 double or 2 twins"
+Fashion House,950.0,8.6,1009.0,2.0,stars,"Eixample, Barcelona","Double or Twin Room with Balcony and Shared Bathroom
+Beds: 1 double or 2 twins
+Only 1 room left at this price on our site"
+Consell Cent apartment I 3 dormitorios Eixample,1642.0,6.7,43.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+4 beds (3 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Sonder Paseo de Gracia,2165.0,8.2,2605.0,5.0,stars,"Eixample, Barcelona","Queen Room
+1 queen bed
+Only 1 room left at this price on our site"
+Axel TWO Barcelona 4 Sup - Adults Only,1229.0,8.3,2750.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+1 queen bed
+Free cancellation"
+Moderno estudio Sagrada Familia,1313.0,7.4,10.0,3.0,squares,"Horta-Guinardó, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 15m²
+1 queen bed
+Free cancellation"
+Aspasios Plaza Real Apartments,2033.0,8.3,286.0,4.0,squares,"Ciutat Vella, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 sofa bed)
+Only 1 left at this price on our site"
+Uma Suites Sagrada Familia,1616.0,8.7,124.0,4.0,squares,"Eixample, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 22m²
+1 full bed
+Only 1 left at this price on our site"
+Habitat Apartments ADN,2496.0,8.1,469.0,4.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Hostal Muntaner,730.0,7.4,507.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 1 room left at this price on our site"
+Hg City Suites Barcelona Apartments,1510.0,8.8,312.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²
+1 queen bed
+Free cancellation"
+Hotel El Palace Barcelona,4194.0,9.3,2041.0,5.0,stars,"Eixample, Barcelona","Classic Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Casa Vaganto,1359.0,8.5,843.0,3.0,stars,"Sants-Montjuïc, Barcelona","Small Double Room
+1 full bed
+Only 7 rooms left at this price on our site"
+Melia Barcelona Sarriá,1993.0,8.2,1726.0,5.0,stars,"Les Corts, Barcelona","Meliá Room
+Beds: 1 double or 2 twins"
+Canela Homes BARCELONA MACBA,2393.0,7.7,276.0,3.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+5 beds (4 twins, 1 sofa bed)
+Only 1 left at this price on our site"
+Barcelona4Seasons - Muntaner,1722.0,8.5,18.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 45m²
+1 full bed
+Free cancellation
+Only 1 left at this price on our site"
+Canela Homes BARCELONA FONTANA,2588.0,8.3,50.0,3.0,squares,"Gràcia, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 110m²
+4 beds (3 twins, 1 full)
+Only 1 left at this price on our site"
+Hotel Coronado,1117.0,6.8,2441.0,1.0,stars,"Sants-Montjuïc, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+AB Paral·lel Spacious Apartments,4109.0,8.0,104.0,3.0,squares,"Sants-Montjuïc, Barcelona","Six-Bedroom Apartment
+Entire apartment • 6 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 110m²
+10 beds (7 twins, 2 bunk beds, 1 sofa bed)
+Only 2 left at this price on our site"
+Bonavista Apartments - Virreina,1959.0,8.5,523.0,4.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment (4 Adults)
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation"
+Murmuri Residence Concepció,2546.0,8.7,173.0,4.0,stars,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 2 bathrooms • 1 kitchen • 53m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Happy Apartments,2907.0,8.5,2740.0,4.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 100m²
+7 beds (6 twins, 1 sofa bed)
+Only 1 left at this price on our site"
+Creu Fira Hostafrancs,1561.0,9.3,3.0,4.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 39m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Izaila Plaza Catalunya,1606.0,9.2,630.0,4.0,squares,"Eixample, Barcelona","Double or Twin Room with Balcony
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Hostal Drassanes,927.0,6.9,1276.0,2.0,stars,"Ciutat Vella, Barcelona","Twin Room
+2 twin beds"
+Chic Apartments Barcelona,2748.0,8.6,907.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+1 queen bed
+Only 2 left at this price on our site"
+Aparthotel Rambla108,2642.0,8.6,1505.0,3.0,squares,"Ciutat Vella, Barcelona","Studio with Balcony (1-3 Adults)
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 27m²
+2 beds (1 full, 1 sofa bed)
+Only 5 left at this price on our site"
+Olivia Balmes Hotel,2568.0,9.2,2247.0,4.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Breakfast included"
+Twentytu Hostel Barcelona,2072.0,7.7,1150.0,,,"Sant Martí, Barcelona","Twin Room with Private Bathroom
+2 twin beds
+Only 1 room left at this price on our site"
+Hotel Casa Fuster G.L Monumento,3476.0,9.0,1781.0,5.0,stars,"Gràcia, Barcelona","Superior Double Room
+2 twin beds"
+Verdi 254,1146.0,8.3,109.0,,,"Gràcia, Barcelona","Standard Double Room with Shared Bathroom
+2 twin beds
+Breakfast included
+Only 2 rooms left at this price on our site"
+"Sir Victor Hotel, part of Sircle Collection",3036.0,8.0,530.0,5.0,stars,"Eixample, Barcelona","Double or Twin Room
+1 king bed"
+Happy People Sagrada Familia Apartments,4316.0,8.4,380.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 85m²
+6 beds (4 twins, 2 fulls)
+Only 3 left at this price on our site"
+Aparthotel Arai 4* Superior,2590.0,9.0,532.0,4.0,stars,"Ciutat Vella, Barcelona","Superior Double Room
+1 full bed
+Only 6 rooms left at this price on our site"
+Tembo Barcelona,2074.0,8.8,2660.0,4.0,stars,Barcelona,"Queen Studio
+Entire studio • 1 bathroom • 27m²
+1 queen bed
+Breakfast included
+Free cancellation"
+Happy People Plaza España Apartments,3272.0,8.2,293.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 55m²
+2 full beds
+Only 1 left at this price on our site"
+Circa 1905,2657.0,9.3,1070.0,4.0,squares,"Eixample, Barcelona","Double Room with Terrace
+2 beds (1 twin, 1 queen)
+Breakfast included
+Only 2 rooms left at this price on our site"
+Sweett - Carrer Fira,3255.0,8.5,546.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Majestic Hotel & Spa Barcelona GL,2825.0,8.5,1912.0,5.0,stars,"Eixample, Barcelona","Deluxe Double or Twin Room
+Beds: 1 double or 2 twins"
+Habitat Apartments Cool Jazz,2629.0,8.3,1118.0,4.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+3 beds (2 twins, 1 full)
+Only 5 left at this price on our site"
+Sonder La Casa del Sol,1807.0,8.4,984.0,3.0,stars,"Gràcia, Barcelona","Queen Room
+1 queen bed
+Only 1 room left at this price on our site"
+Stay Together Barcelona Apartments,2645.0,9.7,302.0,4.0,squares,"Eixample, Barcelona","Penthouse with terrace
+Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 55m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Weflating Sant Antoni Market,1671.0,7.5,672.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment with Terrace - Comte Borrell, 41
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+3 full beds
+Only 1 left at this price on our site"
+Habitat Apartments Rambla Deluxe,3668.0,8.9,112.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 2 bathrooms • 90m²
+4 twin beds
+Only 1 left at this price on our site"
+Sweett - Villarroel,3887.0,8.7,665.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Buba House,872.0,8.0,2195.0,,,"Eixample, Barcelona","Twin Room with Shared Bathroom
+1 bunk bed
+Free cancellation
+Only 5 rooms left at this price on our site"
+Rambla de Mar Apartments,3916.0,8.4,322.0,3.0,squares,"Ciutat Vella, Barcelona","Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 85m²
+5 beds (3 twins, 1 sofa bed, 1 queen)
+Only 3 left at this price on our site"
+Key Barcelona HOUSING (Carrer Girona),3966.0,7.2,416.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 150m²
+5 beds (1 twin, 4 fulls)
+Only 1 left at this price on our site"
+Sweett - Aragon Park Miro,3540.0,8.2,296.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 75m²
+4 beds (3 twins, 1 full)
+Only 1 left at this price on our site"
+Habitat Apartments Barcelona Balconies,2984.0,7.6,167.0,3.0,squares,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 89m²
+3 beds (2 twins, 1 queen)
+Only 1 left at this price on our site"
+La Casa de Laura Nisia B&B,1691.0,8.7,497.0,3.0,squares,"Gràcia, Barcelona","Double Room with Private Bathroom
+1 full bed
+Breakfast included
+Free cancellation
+Only 1 room left at this price on our site"
+Aspasios Garden Apartments,2426.0,8.9,274.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 full)
+Only 2 left at this price on our site"
+Casa Barcelo Hostel Barcelona,1320.0,8.0,2810.0,,,"Eixample, Barcelona","Standard Twin Room with Shared Bathroom
+2 bunk beds
+Breakfast included
+Only 1 room left at this price on our site"
+Leevin Student Barcelona,988.0,8.8,664.0,,,"Sarrià-St. Gervasi, Barcelona","Quadruple Room with Private Bathroom
+2 bunk beds
+Only 1 room left at this price on our site"
+Rent Top Apartments Beach-Diagonal Mar,2870.0,7.7,292.0,3.0,squares,"Sant Martí, Barcelona","Standard Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+1314 -AB Passeig de Gràcia Penthouse,1738.0,8.8,11.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 95m²
+1 full bed"
+Apartamentos Laforja,1199.0,7.7,586.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Studio
+Entire studio • 1 bathroom • 1 kitchen • 30m²
+3 beds (2 twins, 1 sofa bed)
+Only 2 left at this price on our site"
+Canela Homes BARCELONA MARINA,2720.0,7.9,178.0,3.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+4 beds (3 twins, 1 sofa bed)
+Only 1 left at this price on our site"
+The Barcelona EDITION,3658.0,8.3,192.0,5.0,stars,"Ciutat Vella, Barcelona","Guest Room, 1 King
+1 king bed
+Only 5 rooms left at this price on our site"
+Bed&BCN Diagonal 5,2119.0,7.3,16.0,,,"Eixample, Barcelona","Apartment
+2 beds (1 full, 1 queen)
+Free cancellation"
+Chic & Basic Zoo,1302.0,7.9,869.0,1.0,stars,"Ciutat Vella, Barcelona","Economy Double Room
+1 full bed
+Only 4 rooms left at this price on our site"
+Casa Cosi - Casanova 2,4346.0,8.5,14.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 120m²
+5 beds (2 twins, 1 full, 1 king, 1 sofa bed)"
+You Stylish Sagrada Familia Apartments,2288.0,8.7,115.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 60m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Alojamiento Aragon,824.0,8.5,8.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 1 room left at this price on our site"
+Rent Top Apartments Rambla Catalunya,3148.0,8.3,731.0,4.0,squares,"Eixample, Barcelona","One Bedroom Penthouse with Terrace- Rambla Catalunya
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 80m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+NEW! Amazing 2 bedroom apartment in Rambla del Poblenou,1722.0,7.7,23.0,3.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 66m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation"
+Alojamiento Diputacion,910.0,8.4,167.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 2 rooms left at this price on our site"
+Bed&BCN Diagonal 6,2341.0,7.9,22.0,,,"Eixample, Barcelona","Apartment
+2 beds (1 full, 1 queen)
+Free cancellation"
+The Level at Melia Barcelona Sky,2355.0,8.6,579.0,5.0,stars,"Sant Martí, Barcelona","The Level Room
+Multiple bed types"
+Sagrada Familia LEPANT,2787.0,7.7,51.0,3.0,squares,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 4 bedrooms • 2 bathrooms • 1 kitchen • 80m²
+4 beds (1 twin, 2 fulls, 1 bunk bed)"
+Happy People Ramblas Harbour Apartments,3876.0,8.0,677.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Only 5 left at this price on our site"
+Casa Cosi Letamendi,2957.0,8.6,59.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 60m²
+2 beds (1 twin, 1 full)
+Only 1 left at this price on our site"
+Sant Jordi Hostels Sagrada Familia,2158.0,8.6,3367.0,,,"Sant Martí, Barcelona","8-Bed Mixed Dormitory Room
+Shared dorm room
+8 bunk beds
+Only 2 left at this price on our site"
+Fisa Rentals Les Corts Apartments,1707.0,8.7,736.0,4.0,squares,"Les Corts, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 44m²
+1 king bed
+Only 4 left at this price on our site"
+"Hotel Bagués, a Small Luxury Hotel of the World",2806.0,8.5,513.0,5.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins"
+Casa Cosi - Industria,2593.0,8.7,31.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 40m²
+1 full bed"
+Hotel Well and Come Barcelona,2261.0,8.9,1941.0,4.0,stars,"Eixample, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property"
+Hotel Best 4 Barcelona,1018.0,7.7,2256.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins"
+Habitat Apartments Alaia,2062.0,8.1,357.0,4.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 45m²
+1 full bed
+Only 1 left at this price on our site"
+Barcelona City North Hostal,2477.0,7.2,1066.0,2.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room with City View
+Multiple bed types"
+Grums Hotel & Spa,1617.0,8.4,3765.0,4.0,stars,"Sants-Montjuïc, Barcelona","Comfort Double or Twin Room
+Beds: 1 double or 2 twins
+Only 7 rooms left at this price on our site"
+Habitat Apartments Grace,5680.0,8.7,68.0,4.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 4 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 110m²
+4 beds (1 twin, 3 fulls)
+Only 1 left at this price on our site"
+Suites Center Barcelona,3488.0,9.1,572.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment with City View
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 58m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+ibis Styles Barcelona Centre,1627.0,8.5,1455.0,2.0,stars,"Eixample, Barcelona","Standard Double Room
+1 full bed
+Breakfast included
+Only 7 rooms left at this price on our site"
+Habitat Apartments Barcelona Classic,5369.0,8.2,5.0,4.0,squares,"Eixample, Barcelona","Deluxe Apartment
+Entire apartment • 4 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 180m²
+4 king beds
+Only 1 left at this price on our site"
+LucasLand Apartments Barcelona,3108.0,9.0,433.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Only 1 left at this price on our site"
+Líbere Barcelona Sant Antoni,1617.0,8.3,523.0,4.0,squares,"Eixample, Barcelona","Studio with Balcony
+Entire studio • 1 bathroom • 1 kitchen • 22m²
+1 full bed"
+La Maison de Barcelone,1845.0,8.5,246.0,,,"Eixample, Barcelona","Double Room with Garden View
+1 full bed
+Free cancellation
+Only 2 rooms left at this price on our site"
+Habitat Apartments Blanca,2697.0,7.6,302.0,3.0,squares,Barcelona,"Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 57m²
+3 beds (1 sofa bed, 2 queens)
+Only 1 left at this price on our site"
+Casa Cosi - Casanova 6,3993.0,8.7,19.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 120m²
+3 full beds"
+"Torre Melina, a Gran Meliá Hotel",2871.0,8.9,890.0,5.0,stars,"Les Corts, Barcelona","Premier
+Multiple bed types
+Breakfast included"
+Barcelona City Hotel,3204.0,7.5,2139.0,1.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+3 beds (2 twins, 1 full)
+Only 5 rooms left at this price on our site"
+Canela Homes BARCELONA FAMILY,4181.0,8.6,8.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 90m²
+4 beds (2 twins, 2 fulls)"
+Evenia Rossello,1596.0,8.3,724.0,4.0,stars,"Eixample, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 1 room left at this price on our site"
+Canela Homes BARCELONA FIRA,3095.0,8.0,13.0,4.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment
+5 beds (4 twins, 1 full)"
+Canela Homes BARCELONA PADILLA,2889.0,9.1,15.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 90m²
+6 beds (4 twins, 1 full, 1 sofa bed)"
+Casa Cosi - Eixample 5,5166.0,8.6,14.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+5 beds (2 twins, 1 full, 2 queens)
+Only 1 left at this price on our site"
+Apartments Hotel Sant Pau,1417.0,8.6,93.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Apartments Sata Park Guell Area,2271.0,8.9,265.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Only 4 left at this price on our site"
+Lugaris Beach Apartments,1567.0,8.7,1590.0,4.0,squares,"Sant Martí, Barcelona","Business Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 48m²
+2 beds (1 sofa bed, 1 queen)"
+Sweett - Carrer Girona,3289.0,8.7,576.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 64m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Lumine Luxury Suites by Gaiarooms,1450.0,7.2,657.0,3.0,squares,"Eixample, Barcelona","Double Room with Private External Bathroom
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Anais Apartments by Gaiarooms,2544.0,7.7,1169.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+1 queen bed
+Free cancellation
+Only 4 left at this price on our site"
+Sweett - Carrer Bailen,3724.0,8.3,698.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 65m²
+3 beds (2 twins, 1 full)
+Only 1 left at this price on our site"
+Vasanta powered by Sonder,2350.0,8.4,1165.0,3.0,stars,"Eixample, Barcelona","Deluxe King Room
+2 beds (1 king, 1 sofa bed)
+Only 1 room left at this price on our site"
+Sweett - Sants,3367.0,7.8,97.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (2 fulls, 1 sofa bed)
+Only 1 left at this price on our site"
+Habitat Apartments Alibei,3041.0,8.2,208.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with Courtyard View
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Apart céntrico con terraza en Gracia,1291.0,6.7,28.0,3.0,squares,"Gràcia, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+BBarcelona Gràcia Nova Flat,1941.0,7.7,20.0,3.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation"
+Sweett - Harmony Central,3778.0,7.3,10.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 35m²
+2 beds (1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Housalia Ondina Suites Sagrada Familia,2271.0,8.6,10.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Le Palacete powered by Sonder,1865.0,8.3,433.0,3.0,stars,"Gràcia, Barcelona","King Room
+1 king bed
+Only 1 room left at this price on our site"
+Casa Cosi Mallorca I,3869.0,9.3,3.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 130m²
+4 beds (2 twins, 2 fulls)
+Only 1 left at this price on our site"
+Paraiso Hostel,1127.0,7.5,2474.0,,,"Eixample, Barcelona","Double Room with Private Bathroom
+1 full bed
+Free cancellation
+Only 4 rooms left at this price on our site"
+"Cotton House Hotel, Autograph Collection",3531.0,8.3,94.0,5.0,stars,"Eixample, Barcelona","Deluxe Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Sweett - Eixample,3193.0,8.4,228.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (1 full, 1 bunk bed, 1 sofa bed)
+Only 1 left at this price on our site"
+Barcelona City Street,2609.0,7.2,694.0,1.0,stars,"Sarrià-St. Gervasi, Barcelona","Double or Twin Room with City View
+Multiple bed types
+Only 5 rooms left at this price on our site"
+Alcam Galileu,1504.0,8.6,7.0,,,"Les Corts, Barcelona","One-Bedroom Apartment
+1 full bed
+Free cancellation"
+Casa Cosi - Casanova 1,3947.0,8.8,38.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+4 beds (1 twin, 1 king, 1 sofa bed, 1 queen)"
+Your Home in Barcelona Office & Gym & Parking free,1354.0,10.0,1.0,4.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+1 full bed"
+Lodging Apartments City Center-Eixample,3155.0,8.6,179.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)"
+Wello Apartments,2237.0,9.0,1522.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+No prepayment needed – pay at the property
+Only 3 left at this price on our site"
+Casa Cosi - Casanova 3,4112.0,9.2,18.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+4 beds (1 twin, 1 sofa bed, 2 queens)"
+Casa Cosi - Eixample 2,5500.0,9.3,11.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+5 beds (2 twins, 1 full, 2 queens)
+Only 1 left at this price on our site"
+Casa Cosi - Casanova 5,4321.0,8.8,23.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+4 beds (1 twin, 1 king, 1 sofa bed, 1 queen)"
+SibsBcn-Paseo de Gracia Penthouse-Luxury-Terraces,5409.0,9.2,15.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 100m²
+5 beds (4 twins, 1 queen)"
+ABaC Restaurant Hotel Barcelona GL Monumento,2635.0,9.0,350.0,5.0,stars,"Sarrià-St. Gervasi, Barcelona","Deluxe Room (1 or 2 people)
+1 king bed"
+Habitat Apartments Hot Jazz,2962.0,8.5,504.0,4.0,squares,"Sant Martí, Barcelona","Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 62m²
+2 beds (1 full, 1 bunk bed)
+Only 1 left at this price on our site"
+Casa Cosi Don Bajos,2993.0,8.1,10.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 65m²
+2 queen beds
+Only 1 left at this price on our site"
+Sant Antoni 4 · Downtown Barcelona. Modern,1799.0,7.8,10.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation"
+Lugaris Rambla Apartments,1686.0,8.9,591.0,4.0,squares,"Sant Martí, Barcelona","Business Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Only 3 left at this price on our site"
+Garbi Millenni,1377.0,7.9,1550.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Casa Cosi - La Gleva 4,3011.0,9.0,17.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (2 fulls, 1 sofa bed)"
+Casa Cosi - Gotico,4642.0,8.1,13.0,3.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 100m²
+5 beds (2 twins, 1 full, 1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Quartprimera Apartments,7543.0,9.3,285.0,4.0,squares,"Eixample, Barcelona","Superior Six-Bedroom Apartment
+Entire apartment • 6 bedrooms • 1 living room • 6 bathrooms • 1 kitchen • 240m²
+10 beds (7 twins, 2 fulls, 1 queen)
+Only 1 left at this price on our site"
+Barnapartments Raval,1981.0,7.5,257.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 6 left at this price on our site"
+Casa Cosi - Putxet 1,3024.0,9.1,10.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 70m²
+3 beds (1 twin, 2 fulls)"
+Lodging Apartments Liceu G1,3122.0,8.2,262.0,4.0,squares,"Ciutat Vella, Barcelona","Apartment
+Entire apartment • 1 bedroom • 2 living rooms • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 4 left at this price on our site"
+Casa Cosi - Francoli 4,2974.0,7.6,5.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 65m²
+3 beds (1 twin, 2 fulls)"
+Casa Cosi - El Farro 3,3011.0,8.4,25.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Two-Bedroom Apartment
+2 queen beds"
+Canela Homes BARCELONA CÒRSEGA,3132.0,8.6,9.0,4.0,squares,"Gràcia, Barcelona","Three-Bedroom Apartment
+4 beds (1 twin, 1 full, 1 king, 1 sofa bed)"
+Canela Homes BARCELONA BAILÉN,4693.0,8.2,32.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 2 bathrooms • 1 kitchen • 80m²
+5 beds (2 twins, 3 fulls)"
+Bonavista Apartments - Eixample,1964.0,8.6,193.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 40m²
+3 twin beds
+Free cancellation
+Only 3 left at this price on our site"
+Vincci Bit,1802.0,8.5,6192.0,4.0,stars,"Sant Martí, Barcelona","Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation"
+Clandestino Suites,6192.0,7.3,226.0,3.0,squares,"Eixample, Barcelona","Superior Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 85m²
+4 beds (1 twin, 3 fulls)
+Only 2 left at this price on our site"
+Casa Cosi - Casanova 7,4123.0,8.8,18.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+4 beds (1 twin, 1 king, 1 sofa bed, 1 queen)"
+Casa Cosi - Eixample 3,5296.0,8.4,8.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+5 beds (2 twins, 1 full, 2 queens)
+Only 1 left at this price on our site"
+Fridays Flats Bright & Breezy,3100.0,9.3,30.0,4.0,squares,"Gràcia, Barcelona","Apartment with Terrace
+3 beds (2 fulls, 1 sofa bed)
+Only 1 left at this price on our site"
+BacHome Gallery B&B,1521.0,8.9,721.0,4.0,squares,"Eixample, Barcelona","Deluxe Double Room with Balcony
+1 full bed
+Only 1 room left at this price on our site"
+Casa Cosi - Terrace 2,4475.0,7.5,4.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 100m²
+4 beds (2 twins, 2 queens)"
+Canela Homes BARCELONA LESSEPS,3546.0,8.4,5.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 58m²
+5 beds (4 twins, 1 full)"
+Casa Cosi - Putxet 4,3471.0,7.2,6.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Three-Bedroom Apartment
+4 full beds"
+Barcelona City Centre Hostal,3405.0,7.6,1450.0,2.0,stars,"Eixample, Barcelona","Standard Double or Twin Room
+2 beds (1 twin, 1 queen)"
+1216 - Forum Gardens Apartment,2982.0,8.0,39.0,3.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 80m²
+4 beds (2 twins, 1 full, 1 sofa bed)"
+Tendency Apartments 3,2101.0,8.2,44.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Rent Top Apartments Avenida Diagonal,3482.0,7.8,46.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 100m²
+6 beds (4 twins, 1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Canela Homes BARCELONA UNIVERSITAT,4501.0,9.1,11.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+4 beds (2 twins, 2 kings)
+Only 1 left at this price on our site"
+Diagonal Suites by Sweett,13391.0,9.0,18.0,4.0,squares,"Eixample, Barcelona","Four-Bedroom Apartment with Balcony
+Entire apartment • 4 bedrooms • 4 bathrooms • 1 kitchen • 140m²
+4 full beds
+Only 5 left at this price on our site"
+chic&basic Reding,1495.0,8.2,1094.0,3.0,stars,"Ciutat Vella, Barcelona","Deluxe Double Room
+Beds: 1 double or 2 twins
+Only 5 rooms left at this price on our site"
+Hostal Argo,1027.0,8.0,1463.0,3.0,squares,"Eixample, Barcelona","Economy Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Habitat Apartments Barcelona Plaza,6782.0,7.0,6.0,3.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 6 bedrooms • 1 living room • 4 bathrooms • 1 kitchen • 100m²
+8 beds (2 twins, 5 kings, 1 sofa bed)
+Only 1 left at this price on our site"
+Housalia Sant Pau Views- Suite with View on Hospital Sant Pau,2278.0,8.8,7.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+1 queen bed
+Free cancellation
+Only 1 left at this price on our site"
+Housalia Lepant 3 bedroom apartment 300 meters de Sagrada Familia,2503.0,8.1,21.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 68m²
+3 beds (1 full, 2 queens)
+Free cancellation
+Only 1 left at this price on our site"
+Habitacion privada en PISO COMPARTIDO Lepanto,832.0,7.3,56.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 3 rooms left at this price on our site"
+Apartamentos Express by Gaiarooms,2027.0,8.3,23.0,3.0,squares,"Gràcia, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 55m²
+4 beds (3 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Alojamiento Nuevo Valenci,824.0,7.4,9.0,,,"Eixample, Barcelona","Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Plaza Catalunya,9229.0,7.7,22.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 125m²
+4 full beds"
+Modernist apartment in the best location,2266.0,8.9,21.0,4.0,squares,"Eixample, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Eurohotel Diagonal Port,1367.0,8.1,5787.0,4.0,stars,"Sant Martí, Barcelona","Standard Double or Twin Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Pensión San Ramón,885.0,6.9,1973.0,1.0,stars,"Ciutat Vella, Barcelona","Basic Twin Room with Shared Bathroom
+2 twin beds
+Only 1 room left at this price on our site"
+MH Apartments Tetuan,2669.0,8.5,1138.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 75m²
+5 beds (4 twins, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 2 left at this price on our site"
+ApartEasy - Atic Sants,1675.0,7.6,18.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 72m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Cosmo Suite Penthouse,30336.0,,,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 4 living rooms • 3 bathrooms • 1 kitchen • 200m²
+5 beds (1 full, 1 king, 2 sofa beds, 1 queen)
+Only 1 left at this price on our site"
+Click&Flat Luxury cabanyes,1981.0,8.7,12.0,4.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+1 queen bed
+Free cancellation"
+AC Hotel Sants by Marriott,1633.0,8.3,1316.0,4.0,stars,"Sants-Montjuïc, Barcelona","Standard Room, Guest room, 1 Queen
+1 queen bed
+Only 6 rooms left at this price on our site"
+DestinationBCN - Universitat Rooms,1414.0,8.8,90.0,,,"Eixample, Barcelona","Queen Room, Inner courtyard view (I)
+1 queen bed
+Only 2 rooms left at this price on our site"
+Centric Apartment Molino P3,1676.0,6.7,7.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 70m²
+3 beds (2 twins, 1 full)
+Free cancellation"
+Ola Living St Antoni,1608.0,4.0,1.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 1 bedroom • 2 bathrooms • 1 kitchen • 48m²
+1 full bed
+Only 3 left at this price on our site"
+Bed&BCN Diagonal 4,2115.0,8.8,7.0,,,"Eixample, Barcelona","Apartment
+2 beds (1 full, 1 queen)
+Free cancellation"
+Liceu Apartments by Gaiarooms,2255.0,8.0,1032.0,3.0,squares,"Ciutat Vella, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property"
+Evenia Rocafort,2214.0,8.3,1163.0,3.0,stars,"Eixample, Barcelona","Triple Room
+3 twin beds
+Free cancellation
+Only 1 room left at this price on our site"
+Centric Apartment El Molino Theater p1,2116.0,,,4.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 queen)
+Free cancellation"
+Charming Rooms In Shared Apartment Close To Gracia,934.0,6.4,32.0,3.0,squares,"Gràcia, Barcelona","Superior Double Room
+1 full bed
+Only 1 room left at this price on our site"
+NEW! Apartment in Sarria near Metro,1265.0,6.8,11.0,3.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment - Ground Floor
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 35m²
+1 king bed
+Free cancellation
+Only 1 left at this price on our site"
+Loft en Gracia,909.0,3.9,8.0,,,"Gràcia, Barcelona","One-Bedroom Apartment
+1 full bed"
+"ApartEasy - Lightly, central and quiet apartment",1520.0,6.8,5.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Niu Barcelona Hotel,1348.0,7.9,1422.0,3.0,stars,"Ciutat Vella, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Only 3 rooms left at this price on our site"
+Habitacion privada en BELLO APARTAMENTO COMPARTIDO,835.0,8.7,17.0,,,"Eixample, Barcelona","Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Hotel Rialto,1428.0,8.5,3699.0,3.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds"
+Stay Barcelona Charming Gracia,1964.0,8.0,4.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Estudio en Gracia 2,1107.0,5.3,7.0,,,"Gràcia, Barcelona","One-Bedroom Apartment
+1 full bed"
+Green House Hotel,1533.0,7.7,664.0,3.0,stars,"Eixample, Barcelona","Duplex Quadruple Room
+3 beds (2 twins, 1 full)
+Only 6 rooms left at this price on our site"
+Hostal Europa,928.0,7.8,6778.0,1.0,stars,"Ciutat Vella, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 4 rooms left at this price on our site"
+MH Apartments S. Familia,2379.0,8.4,945.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Casa Balmes,1892.0,8.6,1063.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 queen bed
+Breakfast included
+Free cancellation
+Only 2 rooms left at this price on our site"
+Ola Living Boqueria,2103.0,8.6,267.0,4.0,squares,"Ciutat Vella, Barcelona","Standard Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 44m²
+1 full bed
+Only 1 left at this price on our site"
+Hostal Barcelona Centro,1492.0,8.7,770.0,2.0,stars,"Eixample, Barcelona","Standard Twin Room
+2 twin beds
+Only 2 rooms left at this price on our site"
+Barco muy romantico con parking!,1260.0,8.8,34.0,,,Barcelona,"Mobile Home
+Mobile home • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 30m²
+4 beds (1 twin, 2 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Hostal Baler,1286.0,8.1,2053.0,2.0,stars,"Sants-Montjuïc, Barcelona","Standard Twin Room
+2 twin beds
+Only 3 rooms left at this price on our site"
+Praktik Èssens,2153.0,9.2,1753.0,3.0,stars,"Eixample, Barcelona","Superior Double or Twin Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 3 rooms left at this price on our site"
+Arenas Atiram Hotels,1411.0,8.5,528.0,4.0,stars,"Les Corts, Barcelona","Twin Room ( 1 - 2 people )
+2 twin beds"
+limehome Barcelona Carrer de Besalú 82,1307.0,8.9,1042.0,,,"Sant Martí, Barcelona","Double Room
+1 queen bed"
+Casa Mathilda,1517.0,9.1,695.0,4.0,squares,"Eixample, Barcelona","Double or Twin Room with City View
+1 king bed
+Only 1 room left at this price on our site"
+Occidental Diagonal 414,1775.0,8.7,1853.0,4.0,stars,"Eixample, Barcelona","Superior Double Room
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+BizFlats Garden House,2220.0,8.8,5.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment - Ribes, 26
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 twin, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Durlet Beach Apartments,1771.0,8.9,1324.0,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 54m²
+2 beds (1 sofa bed, 1 queen)"
+Port VIII Apart céntrico en Paralelo cerca Rambla,1642.0,5.3,30.0,,,"Sants-Montjuïc, Barcelona","Apartment with Balcony
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 72m²
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+52CIR1072 - Cozy apartment in the heart of Gracia,1362.0,7.5,2.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 28m²
+1 full bed"
+ITC Barcelona By Soho Boutique,1253.0,6.5,833.0,2.0,stars,"Eixample, Barcelona","Small Double Room
+1 full bed
+Only 2 rooms left at this price on our site"
+MH Apartments Liceo,2089.0,8.0,941.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation"
+Bruc 3,990.0,6.8,39.0,,,"Eixample, Barcelona","Triple Room with Shared Bathroom
+2 beds (1 twin, 1 full)
+Free cancellation
+Only 1 room left at this price on our site"
+Comfortable 3 bed Apt next to the Sagrada Familia,2791.0,8.3,11.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 91m²
+5 beds (2 twins, 2 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Private terrace at Sagrada Familia,2789.0,8.9,14.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 90m²
+3 beds (2 fulls, 1 queen)
+Free cancellation"
+Stylish typical BCN flat,2347.0,8.4,13.0,4.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 48m²
+3 beds (1 full, 2 bunk beds)
+Free cancellation"
+Find Calm at this cozy City Sanctuary with terrace,2501.0,9.1,26.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 70m²
+3 beds (1 full, 1 sofa bed, 1 queen)
+Free cancellation"
+MH Apartments Ramblas,2419.0,8.1,1154.0,4.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+No prepayment needed – pay at the property
+Only 2 left at this price on our site"
+Housalia Gracia,1707.0,8.1,22.0,3.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+1 queen bed
+Free cancellation
+Only 1 left at this price on our site"
+Hostal Laia by Gaiarooms,1488.0,6.9,479.0,3.0,squares,"Eixample, Barcelona","Double Room
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Estudio con balcon Plaza España,1189.0,8.7,75.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Balcony
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²
+2 twin beds"
+Plaza Universitat Private Rooms,914.0,7.3,74.0,,,"Ciutat Vella, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Centric Molino Theatre 1-1,1996.0,7.0,15.0,,,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom
+3 beds (2 twins, 1 full)
+Free cancellation"
+Quiet apartment! Sagrada Familia!,1827.0,6.8,85.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation"
+Modernist Family Barcelona apartment,3298.0,9.1,24.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 105m²
+4 beds (2 twins, 2 fulls)
+Free cancellation"
+Hotel Travessera,1837.0,7.9,1623.0,2.0,stars,"Gràcia, Barcelona","Room Assigned on Arrival
+1 twin bed
+Breakfast included
+Free cancellation"
+Stay U-nique Apartments Venecuela,1712.0,8.1,11.0,4.0,squares,"Sant Martí, Barcelona","Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+1 full bed
+Only 1 left at this price on our site"
+Alma Azul Consell de Cent,2592.0,8.6,10.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+3 beds (2 twins, 1 full)
+Free cancellation"
+Winahost Barcelona Provenza,1736.0,,,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 56m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Apartment Fluvia Duplex,2285.0,9.2,17.0,4.0,squares,"Sant Martí, Barcelona","Maisonette
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 75m²
+3 beds (2 twins, 1 queen)
+Free cancellation"
+Duquesa Suites Landmark Hotel by Grup Duquessa,2483.0,9.0,1050.0,4.0,stars,"Ciutat Vella, Barcelona","Standard Exterior Room
+1 queen bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 6 rooms left at this price on our site"
+chic&basic Habana Hoose,1687.0,8.5,904.0,3.0,stars,"Ciutat Vella, Barcelona","Deluxe Double Room
+Beds: 1 double or 2 twins
+Only 4 rooms left at this price on our site"
+Torres Rojo,2537.0,9.5,62.0,3.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+2 beds (1 twin, 1 full)
+Free cancellation"
+Autèntic Barcelona Monumental,3178.0,7.9,154.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 80m²
+5 beds (4 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Paxton Barcelona,1870.0,8.8,5940.0,4.0,stars,"Sant Martí, Barcelona","Deluxe twin room
+1 twin bed
+Free cancellation"
+Classic catalan family apartment with balcony by Maison Piñata,2614.0,8.8,4.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 95m²
+3 beds (1 full, 1 king, 1 queen)
+Free cancellation"
+Bed&BCN Arquimedes Barcelona,1531.0,6.6,30.0,3.0,squares,"Sant Andreu, Barcelona","Two-Bedroom Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+51NO1058 - Bright 1bed flat in Poble Sec,1377.0,7.2,9.0,3.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 33m²
+1 full bed"
+Room018BCN,937.0,7.8,3720.0,,,"Les Corts, Barcelona","Twin Room with Shared Bathroom
+2 twin beds
+Only 1 room left at this price on our site"
+St. Antoni sky lounge,2645.0,8.9,8.0,4.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²
+2 full beds
+Free cancellation"
+Sibs Bcn- Balmes- Romantic CityCentre Beautiful,1937.0,8.9,18.0,4.0,squares,"Eixample, Barcelona","Deluxe Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 50m²
+1 full bed
+Only 1 left at this price on our site"
+Casa Camper Barcelona,1840.0,9.5,1322.0,4.0,stars,"Ciutat Vella, Barcelona","Camper Garden
+Beds: 1 double or 2 twins
+Only 2 rooms left at this price on our site"
+Kabul Party Hostel Barcelona,1042.0,8.5,4881.0,,,"Ciutat Vella, Barcelona","Double Room with Bunk Bed
+2 bunk beds
+Breakfast included
+Only 7 rooms left at this price on our site"
+Hotel Regina Barcelona,1710.0,8.9,309.0,4.0,stars,"Eixample, Barcelona","Room Assigned on Arrival
+1 twin bed"
+Enrique Granados Apartment,1436.0,5.5,2.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment - Non-Smoking
+Entire apartment • 1 bedroom • 1 bathroom • 55m²
+1 full bed"
+Alojamiento Nuevo Balmes,829.0,9.0,7.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 2 rooms left at this price on our site"
+Hostourist Fira Plaza España 3 rooms,2597.0,8.4,19.0,3.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment
+4 beds (1 twin, 2 fulls, 1 sofa bed)
+Free cancellation"
+W Barcelona,2949.0,8.5,4557.0,5.0,stars,"Ciutat Vella, Barcelona","Wonderful King Room
+1 king bed"
+Centric Apartments Sagrada Famila 3,2276.0,7.8,16.0,3.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 50m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Hermoso apartamento en el centro,3042.0,9.0,3.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 100m²
+4 beds (3 fulls, 1 sofa bed)
+Free cancellation"
+Cozy Apt in Residential Center by Maison Piñata,1952.0,9.0,2.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 63m²
+2 beds (1 twin, 1 full)"
+Tendency Sagrada Familia Luxury,3046.0,8.3,10.0,4.0,squares,"Gràcia, Barcelona","Deluxe Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 100m²
+5 beds (4 twins, 1 queen)
+Free cancellation"
+Yurbban Passage Hotel & Spa,2311.0,9.2,1300.0,4.0,stars,"Ciutat Vella, Barcelona","Interior Double or Twin Room
+Multiple bed types
+Only 4 rooms left at this price on our site"
+The Loft House - Barcelona La Pedrera,2192.0,8.3,2765.0,,,"Eixample, Barcelona","Family Room with Private Bathroom
+3 beds (1 twin, 1 full, 1 bunk bed)
+Free cancellation
+Only 1 room left at this price on our site"
+Serras Barcelona,3392.0,9.3,346.0,5.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room
+1 king bed
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Modern and bright apartment in Eixample 5-2,2385.0,6.5,13.0,3.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Paseo de Gracia Design,2767.0,8.5,32.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Bonavista Apartments - Pedrera,2993.0,8.6,332.0,4.0,squares,"Eixample, Barcelona","Executive Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Estudio en Eixample,1215.0,6.0,1.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+1 full bed"
+Precioso apartamento en el Centro,3794.0,8.3,3.0,4.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 100m²
+6 beds (4 twins, 1 full, 1 sofa bed)
+Free cancellation"
+1201 - Encantador Apartamento en Poble Nou,2788.0,8.7,13.0,3.0,squares,"Sant Martí, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+5 beds (2 twins, 1 full, 2 sofa beds)
+Free cancellation"
+H10 Metropolitan 4* Sup,2006.0,8.9,1158.0,4.0,stars,"Eixample, Barcelona","Classic Double Room
+1 queen bed"
+Tendency Apartments Miro 6,2274.0,8.0,1.0,4.0,squares,"Sarrià-St. Gervasi, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation"
+Bcn Friendly Parlament,1764.0,6.5,2.0,4.0,squares,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Tendency Apartments Miro 8,2941.0,8.2,4.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 70m²
+2 queen beds
+Free cancellation"
+Barcelona Apartment Milà,2255.0,8.1,742.0,4.0,squares,"Gràcia, Barcelona","Executive Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 45m²
+3 beds (2 twins, 1 full)
+Free cancellation
+No prepayment needed – pay at the property
+Only 3 left at this price on our site"
+Hostal Santa Ana,967.0,7.5,1670.0,,,"Ciutat Vella, Barcelona","Double Room with Private Bathroom
+1 full bed
+Only 5 rooms left at this price on our site"
+Housalia Familia Rossellon,2360.0,7.4,17.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Duplex in Gracia,1982.0,8.2,4.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+Barcelona me enamora,1741.0,7.6,39.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 40m²
+3 beds (1 full, 2 bunk beds)
+Free cancellation
+Only 1 left at this price on our site"
+Alojamiento Viladomat,829.0,7.0,7.0,,,"Eixample, Barcelona","Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Apartment Vallhonrat,1755.0,7.1,68.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 full)
+Only 1 left at this price on our site"
+Apartamento Sagrada Familia Castillejos,2795.0,7.3,4.0,3.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 87m²
+7 beds (4 twins, 1 full, 1 sofa bed, 1 futon)
+Free cancellation"
+Spatious luxe apartment Paseo de Gracia Diagonal,2007.0,9.1,25.0,4.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment without Elevator.
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 69m²
+3 beds (2 sofa beds, 1 queen)"
+Absolute Sagrada Familia,2470.0,9.3,218.0,4.0,squares,"Eixample, Barcelona","Apartment with 2 Balconies
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Ampersand - Bright 2-Bedroom Apartment,2389.0,10.0,1.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 75m²
+2 beds (1 bunk bed, 1 queen)
+Free cancellation"
+Easy Sants by Bossh!,1241.0,7.1,1264.0,,,"Sants-Montjuïc, Barcelona","Standard Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Central Station Hostel Barcelona,2170.0,3.3,707.0,,,"Ciutat Vella, Barcelona","Double or Twin Room with Shared Bathroom
+Beds: 1 double or 2 twins
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 room left at this price on our site"
+Numa I Lustre Apartments,2048.0,8.4,288.0,3.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 2 left at this price on our site"
+Casp Green House,1474.0,7.6,774.0,3.0,squares,"Eixample, Barcelona","Triple Room
+2 beds (1 twin, 1 full)
+Only 3 rooms left at this price on our site"
+Stay Barcelona Sant Martí,1730.0,7.3,37.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+Rooms Aribau,802.0,7.3,341.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 1 room left at this price on our site"
+Hostal Goya,1525.0,8.8,2959.0,2.0,stars,"Eixample, Barcelona","Budget Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Great Eixample Apartment,4251.0,9.6,26.0,3.0,squares,"Eixample, Barcelona","Apartment
+6 beds (4 twins, 2 fulls)
+Free cancellation"
+Ola Living Gaudi,1943.0,8.4,56.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 65m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Casa Cosi Sant Antoni,1928.0,8.3,32.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Comfortable 3BD in Poblenou next to the beach!,2506.0,7.8,5.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+3 beds (2 twins, 1 full)
+Free cancellation"
+Stay Barcelona Vila de Gracia,1771.0,6.2,15.0,3.0,squares,"Gràcia, Barcelona","Duplex Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Housalia Sagrada Familia,2502.0,7.8,168.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment C - Aragó 423
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 80m²
+4 beds (3 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Amazing city viewsterrace -Gràcia -Parc Güell,1859.0,7.6,5.0,3.0,squares,"Gràcia, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 75m²
+1 queen bed
+Free cancellation
+Only 1 left at this price on our site"
+Private rooms near Parallel Av,1027.0,6.5,20.0,,,"Ciutat Vella, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 1 room left at this price on our site"
+Modern and bright apartment in Eixample 1-3,2007.0,7.0,2.0,4.0,squares,"Eixample, Barcelona","Apartment
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+BCN Town Apartments Portaferrissa,2964.0,9.0,115.0,4.0,squares,"Ciutat Vella, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 2 living rooms • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Stay U-nique Apartments Radas,1702.0,7.6,17.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²
+2 queen beds"
+3BD with private terrace right by Sagrada Familia,3301.0,8.7,11.0,4.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 1 full, 1 bunk bed)
+Free cancellation
+Only 1 left at this price on our site"
+AB Passeig de Gràcia Plaça Catalunya II,2655.0,8.8,35.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 80m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Stay Barcelona Sagrada Familia,2241.0,7.1,25.0,3.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 130m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Ma Bright apartment next to Parc de Montjuïc,2347.0,,,4.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+3 beds (2 twins, 1 full)
+Free cancellation"
+Mercer House Bòria BCN,2638.0,8.1,205.0,4.0,stars,"Ciutat Vella, Barcelona","Superior Double or Twin Room (1-2 Adults)
+1 queen bed
+Free cancellation
+Only 1 room left at this price on our site"
+Modern and bright apartment in Eixample 1-2,2558.0,8.6,11.0,3.0,squares,"Eixample, Barcelona","Apartment
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Boutique Hotel H10 Montcada,1922.0,8.9,1975.0,4.0,stars,"Ciutat Vella, Barcelona","Double Room with City View
+1 full bed
+Free cancellation"
+Bonito alojamiento cerca de Plaza España,1650.0,6.6,13.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 twin, 1 full)"
+Stay Barcelona Rossello,2241.0,8.6,6.0,3.0,squares,"Eixample, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 110m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Apartamento para 2 céntrico,1823.0,8.0,1.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 45m²
+1 full bed"
+Consell Cent Apartment II 3 domitorios Eixample,2834.0,7.1,7.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+4 beds (3 twins, 1 full)
+Free cancellation"
+Stay U-nique Apartments Caminal,1749.0,8.6,15.0,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 38m²
+1 full bed"
+My Space Emirates - Executive Apartments with Private Balcony,1579.0,5.3,7.0,2.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 45m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelona Style Beach Apartment,2923.0,8.8,20.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+3 beds (1 full, 2 sofa beds)
+Free cancellation
+Only 1 left at this price on our site"
+Alojamiento Paris,824.0,8.8,4.0,,,"Eixample, Barcelona","Double Room
+1 full bed
+Only 1 room left at this price on our site"
+Hostal MiMi Las Ramblas,1267.0,5.3,2132.0,1.0,stars,"Ciutat Vella, Barcelona","Budget Double Room with Shared Bathroom
+1 full bed
+Free cancellation
+Only 3 rooms left at this price on our site"
+Fabulous One bedroom Apartament in Poble nou,1673.0,8.8,13.0,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 50m²
+1 full bed"
+You Stylish City Center Apartments,3839.0,8.4,468.0,4.0,squares,"Eixample, Barcelona","Luxury Three-Bedroom Apartment - Ronda de Sant Pere
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+Ohla Eixample,2537.0,8.9,1958.0,5.0,stars,"Eixample, Barcelona","Double Room
+1 full bed
+Breakfast included
+Free cancellation"
+"Luminoso apartamento 1 habitación cerca de Las Ramblas, hasta 4 pers, cocina equipada. - ES-341-6",2189.0,,,,,"Ciutat Vella, Barcelona","Apartment
+Entire apartment • 1 bathroom • 1 kitchen • 65m²
+Free cancellation"
+Diagonal Apartments,2956.0,8.3,424.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 70m²
+6 twin beds
+Free cancellation
+Only 1 left at this price on our site"
+Renovated 4BD in Sagrada Familia!,3527.0,8.4,9.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 91m²
+5 beds (3 fulls, 1 bunk bed, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Beautiful 4bd 4ba apartment in Eixample District,4470.0,8.3,20.0,4.0,squares,"Eixample, Barcelona","Apartment
+5 beds (2 twins, 3 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+Wonderful 2-bd apart with balcony Plaza Cataluña,3172.0,9.0,7.0,,,"Eixample, Barcelona","Apartment
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Hostal Granvia 628,720.0,5.9,1563.0,,,"Eixample, Barcelona","Double Room with Private Bathroom
+1 full bed
+Only 2 rooms left at this price on our site"
+"Comfortable apartment, 3 bedrooms with AC Camp Nou",2301.0,7.7,3.0,4.0,squares,"Les Corts, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²
+4 beds (3 twins, 1 full)"
+My Space Barcelona Executive Apartments Center,1569.0,5.2,94.0,,,"Sarrià-St. Gervasi, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelonaforrent The Sagrada Penthouse,2943.0,7.0,2.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment - Penthouse - Corsega 515Bis
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Ramblas Apartments BCN,1616.0,9.7,12.0,4.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 45m²
+2 beds (1 full, 1 queen)
+Free cancellation
+Only 2 left at this price on our site"
+Alcam Books,1629.0,7.8,153.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 twin, 1 full)
+Only 1 left at this price on our site"
+Tendency Plaza España,2996.0,7.0,23.0,3.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 45m²
+3 beds (1 sofa bed, 2 queens)
+Free cancellation
+Only 1 left at this price on our site"
+Heaven With a Garden at Las Ramblas,4110.0,8.8,10.0,4.0,squares,"Ciutat Vella, Barcelona","Three-Bedroom Apartment
+4 beds (2 twins, 2 fulls)
+Free cancellation"
+Spacious and Elegant 4 Bedroom with Private Terrace,3504.0,6.8,8.0,3.0,squares,"Eixample, Barcelona","Apartment
+5 beds (1 twin, 3 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Acogedor apartamento Diagonal Mar,1689.0,5.0,2.0,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 50m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Be Barcelona Eixample Arco del Triunfo,3049.0,7.2,7.0,3.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 kitchen • 85m²
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+Marion House Barcelona,3441.0,8.3,34.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 70m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Barcelona4Seasons - Central Palace,2408.0,8.0,2.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 78m²
+5 beds (3 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Apartment Barcelona Rentals - Sarria Apartments Near Center,1666.0,5.5,184.0,2.0,squares,"Sarrià-St. Gervasi, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 65m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Stay Barcelona Plaza España Fira,2010.0,4.5,14.0,,,"Sants-Montjuïc, Barcelona","Superior Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 120m²
+6 beds (4 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Stay U-nique Apartments Rambla Catalunya V,2003.0,8.1,6.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 41m²
+2 beds (1 full, 1 sofa bed)"
+Elegant Eixample Apartment nicely decorated,2238.0,9.5,18.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 65m²
+1 full bed"
+Exquisite and Modern Paradise w Private Terrace and City Center,4272.0,8.2,15.0,4.0,squares,"Eixample, Barcelona","Apartment
+4 beds (3 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+GuestReady - Lovely home in the heart of Barcelona,3318.0,9.0,1.0,4.0,squares,"Sant Martí, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 85m²
+3 beds (1 twin, 2 fulls)
+Free cancellation"
+Cozy place next to Park Güell,1782.0,6.9,19.0,3.0,squares,"Horta-Guinardó, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 70m²
+3 beds (2 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Monument Hotel,3255.0,9.1,1124.0,5.0,stars,"Eixample, Barcelona","Deluxe Room
+1 queen bed
+Free cancellation"
+Hostal Live Barcelona,1119.0,8.5,1420.0,2.0,stars,"Eixample, Barcelona","Double with Terrace
+1 full bed"
+"ApartEasy - Private Terrace, 3-Bedroom Apartment",2277.0,6.6,31.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Terrace
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+5 beds (4 twins, 1 full)
+Free cancellation"
+Alojamiento Villarro,824.0,8.2,6.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 1 room left at this price on our site"
+The MO House,1377.0,8.2,828.0,,,"Eixample, Barcelona","Interior Double Room
+1 full bed
+Only 2 rooms left at this price on our site"
+Eixample 19,2487.0,8.7,3.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Stay Barcelona Sant Antoni,2027.0,5.5,24.0,3.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Atic Barcelona,4628.0,8.0,7.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 55m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+No prepayment needed – pay at the property"
+Bed&Bcn Sant Andreu,1931.0,6.3,59.0,3.0,squares,"Sant Andreu, Barcelona","Three-Bedroom Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 84m²
+3 beds (1 twin, 2 fulls)
+Free cancellation"
+Port III Apart céntrico ideal familias 11,2960.0,8.5,17.0,4.0,squares,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 70m²
+5 beds (4 twins, 1 full)
+Free cancellation"
+Plaza España 238,3089.0,7.8,6.0,,,"Sants-Montjuïc, Barcelona","Three-Bedroom Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 70m²
+3 beds (1 twin, 2 fulls)
+Free cancellation"
+Barcelona Hotel Colonial,1547.0,8.4,1973.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds"
+Livingstone,3423.0,9.0,1.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment - Urgell, 46
+Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 90m²
+2 full beds
+Free cancellation
+Only 1 left at this price on our site"
+"Wittmore Hotel - Adults Only, Small Luxury Hotels",3302.0,9.0,288.0,5.0,stars,"Ciutat Vella, Barcelona","Medium Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 5 rooms left at this price on our site"
+AinB B&B Eixample-Muntaner,1503.0,6.4,206.0,,,"Eixample, Barcelona","Double Room
+Beds: 1 double or 2 twins
+Breakfast included"
+Habitat Apartments Paseo de Gracia Suite,2231.0,7.3,20.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 45m²
+2 beds (1 king, 1 sofa bed)"
+Gracia 1872,4582.0,9.3,47.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 90m²
+4 beds (2 twins, 1 sofa bed, 1 queen)
+Free cancellation
+No prepayment needed – pay at the property
+Only 1 left at this price on our site"
+Casanova Charm 4BDR Apartment,5248.0,9.3,3.0,4.0,squares,"Eixample, Barcelona","Four-Bedroom Apartment
+Entire apartment • 4 bedrooms • 1 bathroom • 1 kitchen • 160m²
+4 beds (1 twin, 3 queens)
+Free cancellation
+No prepayment needed – pay at the property"
+Cómodo apartamento para 2,1645.0,6.8,5.0,4.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+1 full bed"
+Eric Vökel Boutique Apartments - Sagrada Familia Suites,2587.0,9.2,411.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with One Bathroom
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 55m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Only 2 left at this price on our site"
+Barcelona Eixample,4175.0,9.6,11.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment - Aribau 138
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 80m²
+5 beds (4 twins, 1 full)
+Free cancellation
+Only 2 left at this price on our site"
+Alcam Futbol Pequeño,2091.0,6.3,42.0,3.0,squares,"Les Corts, Barcelona","Loft
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 50m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+Great and Seaside Flat,2790.0,9.1,29.0,4.0,squares,"Sant Martí, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 95m²
+4 beds (2 twins, 2 fulls)"
+Tendency Apartments 8,2422.0,5.9,41.0,3.0,squares,"Eixample, Barcelona","Standard Apartment
+Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 50m²
+2 beds (1 sofa bed, 1 queen)
+Free cancellation
+Only 1 left at this price on our site"
+Apartamento cerca de la Sagrada Familia para 2,1385.0,9.0,1.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+1 full bed"
+My Space Barcelona Pool City Center,1753.0,3.6,158.0,,,"Eixample, Barcelona","Studio Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Acta Azul Barcelona,1859.0,8.3,522.0,3.0,stars,"Sants-Montjuïc, Barcelona","Triple Room
+3 beds (2 twins, 1 sofa bed)
+Only 1 room left at this price on our site"
+Bright and modern 3BD in Eixample,3577.0,8.8,5.0,4.0,squares,"Eixample, Barcelona","Apartment
+5 beds (4 twins, 1 full)
+Free cancellation"
+Autèntic Eixample Barcelona,3297.0,6.5,41.0,,,"Eixample, Barcelona","Three-Bedroom Apartment - Muntaner 32
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 90m²
+5 beds (2 twins, 2 fulls, 1 sofa bed)
+Free cancellation
+Only 2 left at this price on our site"
+Sunny Rooftop Apartment,1891.0,7.8,4.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 55m²
+1 full bed
+Free cancellation"
+Centric eixample Clinic Aribau,2393.0,8.5,2.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+Habitat Apartments Plaza España Urban,2243.0,5.7,19.0,2.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 68m²
+3 beds (2 twins, 1 queen)
+Free cancellation"
+Citytrip Poble Nou Beach,1450.0,7.3,118.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment (2 Adults) - Doctor Trueta 228 street
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Only 1 left at this price on our site"
+Bed&BCN Gracia II,2049.0,5.4,6.0,3.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 52m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Bird House,2737.0,7.3,1280.0,,,"Eixample, Barcelona","Penthouse Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Piso con Piscina en Barcelona,2546.0,9.3,3.0,,,"Eixample, Barcelona","Three-Bedroom Apartment
+4 beds (3 twins, 1 full)
+Free cancellation"
+HA Balmes Terrace Apartments,6062.0,8.7,57.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 3 bathrooms • 1 kitchen • 160m²
+6 beds (2 twins, 3 fulls, 1 bunk bed)
+Free cancellation"
+Ronda Sant Pere Private City Center 3Bedroom Suite C,3337.0,7.0,12.0,3.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
+Aparthotel Atenea Barcelona,1595.0,8.4,2876.0,4.0,stars,"Les Corts, Barcelona","Twin Room (1-2 Adults)
+2 twin beds"
+Cozy and bright 3BD apartment by Gran Via,3113.0,8.8,4.0,,,"Eixample, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen
+3 beds (2 fulls, 1 bunk bed)
+Free cancellation
+Only 1 left at this price on our site"
+Ohla Barcelona,3186.0,9.1,1837.0,5.0,stars,"Ciutat Vella, Barcelona","Design Room
+1 full bed
+Breakfast included"
+La Fira - Paralelo 1,2035.0,8.5,13.0,4.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 65m²
+4 beds (2 twins, 1 full, 1 sofa bed)"
+Fantastic 3 Bedrooms Apartment Barcelona,2316.0,9.8,12.0,,,"Eixample, Barcelona","One-Bedroom Apartment
+1 full bed
+Free cancellation"
+H10 Cubik 4* Sup,2235.0,9.0,1837.0,4.0,stars,"Ciutat Vella, Barcelona","Classic Double or Twin Room
+Multiple bed types
+Only 7 rooms left at this price on our site"
+Port I Espectacular apartament con terraza,1983.0,7.0,5.0,2.0,squares,"Sants-Montjuïc, Barcelona","Apartment with Terrace
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Be Barcelona Plaza Catalunya,6249.0,8.3,24.0,4.0,squares,"Eixample, Barcelona","Four-Bedroom Apartment - Balmes, 12
+Free cancellation
+Only 2 left at this price on our site"
+Modern apartment close to the Camp Nou Stadium,2301.0,8.0,8.0,3.0,squares,"Les Corts, Barcelona","Apartment
+5 beds (3 twins, 2 fulls)
+Free cancellation"
+Uma Suites Pau Claris,1745.0,9.1,1062.0,4.0,squares,"Eixample, Barcelona","Double Room
+1 full bed
+Only 3 rooms left at this price on our site"
+Alojamiento Flor,890.0,8.0,1.0,,,"Eixample, Barcelona","Double Room with Shared Bathroom
+1 full bed
+Only 2 rooms left at this price on our site"
+Kronos on the beach Suite 4,5205.0,8.5,41.0,4.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 70m²
+2 full beds
+Free cancellation"
+Great apartment in Poblenou perfect for 4 people,2531.0,8.4,5.0,4.0,squares,"Sant Martí, Barcelona","Three-Bedroom Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²
+3 beds (2 twins, 1 queen)
+Free cancellation"
+Sagrada familia apartment,4847.0,8.8,4.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²
+2 full beds
+Free cancellation"
+New 2 bedroom apartment in Plaza España,2064.0,8.6,20.0,4.0,squares,"Sants-Montjuïc, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 70m²
+2 beds (1 twin, 1 full)"
+Stay Barcelona Maragall,1925.0,6.8,40.0,3.0,squares,"Horta-Guinardó, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 2 left at this price on our site"
+4 bedroom apartment with a balcony in Las Ramblas 2 2,4667.0,9.0,6.0,3.0,squares,"Ciutat Vella, Barcelona","Apartment
+7 beds (6 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Lodging Apartments Almirall Beach B2,2169.0,10.0,8.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²
+1 full bed
+Free cancellation"
+Torre de Gracia Barcelona,4847.0,8.8,20.0,4.0,squares,"Gràcia, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 70m²
+3 beds (1 twin, 1 full, 1 queen)
+Free cancellation"
+"Encanto en Las Ramblas, Espacio perfecto para 9",4695.0,6.3,6.0,3.0,squares,"Ciutat Vella, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 4 bathrooms • 1 kitchen • 95m²
+5 beds (1 twin, 4 fulls)
+Free cancellation"
+Marina Sagrada Familia,2429.0,,,,,"Eixample, Barcelona","Three-Bedroom Apartment
+3 full beds
+Free cancellation"
+Bright 4BD with terrace near Arc de Triomf,3729.0,7.4,5.0,,,"Eixample, Barcelona","Apartment
+4 beds (1 twin, 2 fulls, 1 bunk bed)
+Free cancellation
+Only 1 left at this price on our site"
+My Space Emirates - Spacious Apartments near the City Center,1718.0,4.1,39.0,,,"Sarrià-St. Gervasi, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+5 beds (4 twins, 1 full)
+Free cancellation
+Only 5 left at this price on our site"
+Romantic apartment for couples with Jacuzzi,3741.0,7.7,6.0,3.0,squares,"Horta-Guinardó, Barcelona","Deluxe Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 40m²
+1 queen bed
+Free cancellation
+Only 1 left at this price on our site"
+Meeting Point Hostels,1124.0,8.6,1489.0,,,"Sants-Montjuïc, Barcelona","Quadruple Room with Private Bathroom
+2 bunk beds
+Only 2 rooms left at this price on our site"
+Lodging Apartments Almirall Beach 21,2149.0,8.8,5.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²
+1 full bed"
+Modern and bright three-bedroom in Eixample,3454.0,5.7,3.0,2.0,squares,"Eixample, Barcelona","Apartment
+3 full beds
+Free cancellation
+Only 1 left at this price on our site"
+Numa l Roca Rooms & Apartments,1559.0,8.4,600.0,4.0,stars,"Eixample, Barcelona","Small Double Room
+1 queen bed
+Only 1 room left at this price on our site"
+Apartment Barcelona Rentals - Pool Terrace in City Center,2653.0,4.7,39.0,,,"Eixample, Barcelona","Apartment with Balcony
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 80m²
+6 beds (4 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 5 left at this price on our site"
+Exclusive 2 bedroom apartment in the city center,3135.0,7.7,7.0,,,"Eixample, Barcelona","Apartment
+3 beds (2 fulls, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+limehome Barcelona Carrer de Fontcoberta - Digital Access,1448.0,8.2,2087.0,,,"Sarrià-St. Gervasi, Barcelona","Economy Twin Room
+2 twin beds
+Only 1 room left at this price on our site"
+Sagrada Familia Gaudi,4847.0,8.5,9.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 80m²
+2 beds (1 full, 1 queen)
+Free cancellation"
+My Space Emirates - Park Güell Triplex with Private Terrace,2317.0,6.2,6.0,2.0,squares,"Sarrià-St. Gervasi, Barcelona","Apartment with Terrace
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 85m²
+5 beds (4 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Loft Pere IV,2172.0,9.5,93.0,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Eixample next to Paseo de Gracia modern 3BD,3177.0,9.1,41.0,4.0,squares,"Eixample, Barcelona","Apartment
+4 beds (3 twins, 1 full)
+Free cancellation"
+Bcn Town Apartments Born,1901.0,8.2,46.0,3.0,squares,"Ciutat Vella, Barcelona","Loft
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 30m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Apartment Bed&BCN Sant Andreu II,1411.0,6.3,19.0,3.0,squares,"Sant Andreu, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 40m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation"
+Cathedral Apartments,1580.0,6.7,80.0,3.0,squares,"Ciutat Vella, Barcelona","Standard Studio
+Entire studio • 1 bathroom • 15m²
+Beds: 1 double or 2 twins
+Only 1 left at this price on our site"
+Tendency Apartments Sagrada Familia Penthouse,5214.0,8.1,10.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+3 beds (1 twin, 2 fulls)
+Free cancellation"
+Kronos on the Beach suite 3,5154.0,9.4,31.0,4.0,squares,"Ciutat Vella, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 70m²
+2 full beds
+Free cancellation"
+Ola Living Poblenou Beach,1984.0,,,4.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 90m²
+2 beds (1 twin, 1 full)
+Only 4 left at this price on our site"
+"Passeig Sant Joan 1-2, Eixample",3348.0,,,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 110m²
+4 beds (1 twin, 1 sofa bed, 2 queens)
+Free cancellation"
+Historic apartment with private terrace in Example,2641.0,1.0,1.0,,,"Eixample, Barcelona","Apartment
+Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+My Space Barcelona Rambla Catalunya Center,2865.0,5.4,25.0,,,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 4 bedrooms • 1 bathroom • 1 kitchen • 105m²
+7 beds (6 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Breathtaking Penthouse in Eixample,2403.0,5.3,3.0,2.0,squares,"Eixample, Barcelona","Apartment
+1 full bed
+Free cancellation
+Only 1 left at this price on our site"
+Sixtytwo Hotel,3250.0,9.3,2001.0,4.0,stars,"Eixample, Barcelona","Standard Double Room
+Beds: 1 double or 2 twins
+Free cancellation
+Only 7 rooms left at this price on our site"
+"Piso Zona Plaza España, junto a Montjuic,",4406.0,8.8,48.0,3.0,squares,"Sants-Montjuïc, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 104m²
+6 beds (4 twins, 1 full, 1 bunk bed)
+Free cancellation
+Only 1 left at this price on our site"
+Hotel Gótico,1612.0,8.6,1598.0,4.0,stars,"Ciutat Vella, Barcelona","Double or Twin Room
+2 twin beds"
+Kronos on the Beach Attic Suite,5282.0,9.7,14.0,4.0,squares,"Ciutat Vella, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 70m²
+1 full bed
+Free cancellation"
+Sweett - Avenida Roma,3342.0,8.1,300.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 55m²
+2 beds (1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Penthouse with terrace in Poblenou,4498.0,8.6,45.0,4.0,squares,"Sant Martí, Barcelona","Three-Bedroom Deluxe Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 111m²
+8 beds (6 twins, 2 sofa beds)
+Free cancellation"
+Bed&Bcn Glories,2341.0,6.0,6.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 65m²
+3 beds (1 full, 1 bunk bed, 1 sofa bed)
+Free cancellation"
+Modernist and Luxurious flat - Casa de Flor,2788.0,1.0,1.0,4.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Sunny 3BD apartment in Poblenou next to the beach,2885.0,7.6,5.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+4 beds (3 twins, 1 full)
+Free cancellation"
+Bright and modern Duplex with terrace in Eixample district P1,2528.0,5.9,9.0,3.0,squares,"Eixample, Barcelona","Apartment
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Mooeve Sant Antoni,3509.0,8.0,2.0,4.0,squares,"Eixample, Barcelona","Two-Bedroom Apartment with Balcony
+Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 75m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation"
+Modern and bright apartment in Eixample 2-1,2395.0,5.3,3.0,4.0,squares,"Eixample, Barcelona","Apartment
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+One bedroom flat in Sant Andreu with small terrace,1917.0,4.5,4.0,3.0,squares,"Sant Andreu, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 30m²
+1 full bed
+Free cancellation"
+Gran apartamento Sagrada Familia,4408.0,8.7,3.0,4.0,squares,"Eixample, Barcelona","Apartment
+Entire apartment • 4 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 140m²
+6 beds (2 twins, 2 fulls, 1 bunk bed, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+AB Gracia Sant Salvador,1740.0,7.8,257.0,3.0,squares,"Gràcia, Barcelona","One-Bedroom Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 42m²
+2 beds (1 sofa bed, 1 queen)
+Only 1 left at this price on our site"
+Apartment Barcelona Rentals - Gracia Pool Apartments Center,2502.0,4.9,133.0,,,"Gràcia, Barcelona","Apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 80m²
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 4 left at this price on our site"
+Uma Suites Passeig de Gracia 16,2419.0,9.3,91.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 80m²
+2 beds (1 full, 1 sofa bed)"
+Modern and bright apartment in Eixample 5-1,2521.0,6.0,2.0,4.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 1 full, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Style and design in the best location,4145.0,9.5,2.0,4.0,squares,"Eixample, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 75m²
+5 beds (4 twins, 1 queen)
+Free cancellation"
+Barcelonaforrent The Central Place,3506.0,8.2,155.0,4.0,squares,"Eixample, Barcelona","One-Bedroom Apartment with Balcony
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 60m²
+3 beds (2 twins, 1 sofa bed)
+Free cancellation
+Only 1 left at this price on our site"
+Cozy 2 Bedroom next to Arc de Triomf,2353.0,7.1,16.0,3.0,squares,"Sant Martí, Barcelona","Apartment
+Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 65m²
+3 beds (2 twins, 1 king)
+Free cancellation"
+My Space Barcelona Gracia Pool Terrace,2433.0,4.6,36.0,,,"Gràcia, Barcelona","Loft
+Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 80m²
+3 beds (1 full, 2 sofa beds)
+Free cancellation
+Only 1 left at this price on our site"
+Apartment with terrace a step away from Montjuic,3448.0,7.1,10.0,4.0,squares,"Sants-Montjuïc, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²
+3 beds (2 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Sweett - Pare Lainez II,3515.0,10.0,1.0,4.0,squares,"Gràcia, Barcelona","Two-Bedroom Apartment
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²
+3 beds (1 twin, 1 full, 1 sofa bed)
+Free cancellation"
+My Space Barcelona Penthouse Terrace,2160.0,4.9,24.0,,,"Sarrià-St. Gervasi, Barcelona","Three-Bedroom Apartment
+Entire apartment • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²
+5 beds (4 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+B-Garden BCN,1722.0,9.1,1342.0,2.0,stars,"Eixample, Barcelona","Superior Twin Room
+2 twin beds
+Breakfast included
+Only 2 rooms left at this price on our site"
+Apartment Barcelona Rentals - Classic Bonanova Apartment,2417.0,3.0,12.0,,,"Sarrià-St. Gervasi, Barcelona","Apartment with Terrace
+Entire apartment • 4 bedrooms • 1 bathroom • 1 kitchen • 180m²
+7 beds (6 twins, 1 full)
+Free cancellation
+Only 1 left at this price on our site"
+Tendency Rambla del Poblenou,2540.0,6.0,13.0,3.0,squares,"Sant Martí, Barcelona","One-Bedroom Apartment 1
+Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 55m²
+3 beds (2 twins, 1 queen)
+Free cancellation"
+Montaber Apartment - Trafalgar,2580.0,8.5,16.0,4.0,squares,"Eixample, Barcelona","Two bedrooms apartment with Terrace
+Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 120m²
+4 beds (2 twins, 1 full, 1 sofa bed)"
+Ronda Sant Pere Private City Center 3Bedroom Suite B,3221.0,6.8,8.0,3.0,squares,"Eixample, Barcelona","Apartment
+4 beds (2 twins, 2 fulls)
+Free cancellation
+Only 1 left at this price on our site"
