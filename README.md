@@ -10,9 +10,9 @@ period.
 
 Project was divided in 3 parts:
 
-A- Webscraping of booking.com for hotel data for Barcelona and Madrid
-B- Text analysis of the data extracted from booking.com
-C- Difference in Difference model used to analyze the impact of Mobile congress event in Barcelona 
+A) Webscraping of booking.com for hotel data for Barcelona and Madrid
+B) Text analysis of the data extracted from booking.com
+C) Difference in Difference model used to analyze the impact of Mobile congress event in Barcelona 
 
 Below are the files with the detailed results for each of the above sections
 
