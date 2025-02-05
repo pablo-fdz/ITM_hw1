@@ -8,10 +8,10 @@ To do so, we rely on data for the full population of accommodations:
 Taking this into account, we have used the week from the 9th to the 16 of February as the pre-treatment period and the week from the 1st to the 8th of March as the treatment
 period.
 
-Project was divided in 3 parts
-A) Webscraping of booking.com for hotel data for Barcelona and Madrid
-B) Text analysis of the data extracted from booking.com
-C) Difference in Difference model used to analyze the impact of Mobile congress event in Barcelona 
+Project was divided in 3 parts -
+A- Webscraping of booking.com for hotel data for Barcelona and Madrid
+B- Text analysis of the data extracted from booking.com
+C- Difference in Difference model used to analyze the impact of Mobile congress event in Barcelona 
 
 Below are the files with the detailed results for each of the above sections
 
